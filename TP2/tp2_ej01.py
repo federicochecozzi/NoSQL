@@ -1,10 +1,11 @@
 import csv
 import redis
+import time
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 #archivo_entrada = 'full_export_version_corta.csv'
 archivo_entrada = 'full_export.csv'
-nombre_archivo_resultado_ejercicio = 'tpY_ej01.txt'
+nombre_archivo_resultado_ejercicio = 'tp1_ej01.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -16,8 +17,6 @@ conexion = {
 # Funcion que dada la configuracion y ubicacion del archivo, carga la base de datos, genera el reporte, y borra la
 # base de datos
 def ejecutar(file, conn):
-    import time
-
     start = time.time()
     db = inicializar(conn)
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
@@ -57,41 +56,22 @@ def procesar_fila(db, fila):
     db.set("id_deportista:"+fila['id_deportista'], fila['nombre_deportista'])
 
 
-#codigo para testear conexion
-#db.set("pruebatp","grupo1")
-#Pasar la lectura de cada fila hacia redis
-
-    pass
-    # insertar elemento en entidad para el ejercicio actual
-
-
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
 
-
-
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w')
+    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8')
     linea = "id_deportista,deportista"
     grabar_linea(archivo, linea)
     ids_deportistas = ['10', '20', '30']
-    for deportista in ids_deportistas:
-        linea = deportista+","+db.get("id_deportista:"+deportista)
+    for id_deportista in ids_deportistas:
+        linea = id_deportista + "," + db.get("id_deportista:"+id_deportista)
         grabar_linea(archivo, linea)
-
-    # luego para cada linea generada como reporte:
-    # grabar_linea(archivo, linea)
-
-
-    pass
 
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):
-    pass
-    #db.flushdb()
-    # Borrar la estructura de la base de datos
-
+    db.flushdb()
 
 # Llamado a la ejecucion del programa
 ejecutar(archivo_entrada, conexion)

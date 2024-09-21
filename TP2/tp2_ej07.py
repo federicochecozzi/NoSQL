@@ -1,9 +1,10 @@
 import csv
 import redis
+import time
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = 'full_export_version_corta.csv'
-#archivo_entrada = 'full_export.csv'
+#archivo_entrada = 'full_export_version_corta.csv'
+archivo_entrada = 'full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp2_ej07.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -16,8 +17,6 @@ conexion = {
 # Funcion que dada la configuracion y ubicacion del archivo, carga la base de datos, genera el reporte, y borra la
 # base de datos
 def ejecutar(file, conn):
-    import time
-
     start = time.time()
     db = inicializar(conn)
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
@@ -59,54 +58,35 @@ def procesar_fila(db, fila):
     db.zadd('torneo:especialidad',{fila['nombre_torneo'] + ':' + fila['nombre_especialidad']:0})
     db.zadd(":".join(["podio",fila['nombre_torneo'],fila['nombre_especialidad']]),
             {":".join([fila['intento'],fila['nombre_deportista']]):fila['marca']})
-    #print(deportista)
-
-#codigo para testear conexion
-#db.set("pruebatp","grupo1")
-#Pasar la lectura de cada fila hacia redis
-    # insertar elemento en entidad para el ejercicio actual
-
 
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
-
-
-
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w')
+    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8')
     linea = "nombre_torneo,nombre_especialidad,nombre_deportista,intento,marca,posicion"
     grabar_linea(archivo, linea)
     for torneo_especialidad in db.zrange("torneo:especialidad",0,-1):
         nombre_torneo,nombre_especialidad = torneo_especialidad.split(sep = ':')
         tipo_especialidad = db.get(nombre_especialidad)
         if (tipo_especialidad == 'tiempo'):
-            range_list = db.zrange('podio:' + torneo_especialidad,0,2,withscores= True)
+            range_list = db.zrange('podio:' + torneo_especialidad,0,2,withscores= True, score_cast_func=str)
             for posicion,item in enumerate(range_list,start = 1):
                 key,marca = item
                 intento,nombre_deportista = key.split(sep = ':')
-                linea = ','.join([nombre_torneo,nombre_especialidad,nombre_deportista,intento,str(marca),str(posicion)])
+                linea = ','.join([nombre_torneo,nombre_especialidad,nombre_deportista,intento,marca,str(posicion)])
                 grabar_linea(archivo, linea)
         else:
-            range_list = db.zrange('podio:' + nombre_especialidad,0,2,desc = True, withscores= True)
+            range_list = db.zrange('podio:' + torneo_especialidad,0,2,desc = True, withscores= True, score_cast_func=str)
             for posicion,item in enumerate(range_list,start = 1):
                 key,marca = item
                 intento,nombre_deportista = key.split(sep = ':')
-                linea = ','.join([nombre_torneo,nombre_especialidad,nombre_deportista,intento,str(marca),str(posicion)])
+                linea = ','.join([nombre_torneo,nombre_especialidad,nombre_deportista,intento,marca,str(posicion)])
                 grabar_linea(archivo, linea)
-        
-
-    # luego para cada linea generada como reporte:
-    # grabar_linea(archivo, linea)
-
-
-
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):
-    #pass
     db.flushdb()
     # Borrar la estructura de la base de datos
-
 
 # Llamado a la ejecucion del programa
 ejecutar(archivo_entrada, conexion)

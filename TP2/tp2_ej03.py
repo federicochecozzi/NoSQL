@@ -1,9 +1,10 @@
 import csv
 import redis
+import time
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-archivo_entrada = 'full_export_version_corta.csv'
-#archivo_entrada = 'full_export.csv'
+#archivo_entrada = 'full_export_version_corta.csv'
+archivo_entrada = 'full_export.csv'
 nombre_archivo_resultado_ejercicio = 'tp2_ej03.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
@@ -16,8 +17,6 @@ conexion = {
 # Funcion que dada la configuracion y ubicacion del archivo, carga la base de datos, genera el reporte, y borra la
 # base de datos
 def ejecutar(file, conn):
-    import time
-
     start = time.time()
     db = inicializar(conn)
     df_filas = csv.DictReader(open(file, "r", encoding="utf-8"))
@@ -60,45 +59,27 @@ def procesar_fila(db, fila):
         'fecha_nacimiento': fila['fecha_nacimiento'],
         'nombre_pais_deportista': fila['nombre_pais_deportista'],
     }
-    print(deportista)
+    #print(deportista)
     db.hset("id_deportista_info:"+fila['id_deportista'], mapping=deportista)
     db.sadd("id_deportista_especialidades:"+fila['id_deportista'],fila['nombre_especialidad'])
 
-#codigo para testear conexion
-#db.set("pruebatp","grupo1")
-#Pasar la lectura de cada fila hacia redis
-
-    pass
-    # insertar elemento en entidad para el ejercicio actual
-
-
 # Funcion que realiza el o los queries que resuelven el ejercicio, utilizando la base de datos.
 # Debe ser implementada por el alumno
-
-
-
 def generar_reporte(db):
-    archivo = open(nombre_archivo_resultado_ejercicio, 'w')
+    archivo = open(nombre_archivo_resultado_ejercicio, 'w', encoding='utf-8')
     linea = "id_deportista,deportista,fecha_nacimiento,nombre_pais_deportista,cantidad_especialidades"
     grabar_linea(archivo, linea)
-    ids_deportistas = ['1', '2', '3']
-    for deportista in ids_deportistas:
-        deportista_seleccionado = db.hgetall("id_deportista_info:"+deportista)
-        cantidad_especialidades = db.scard("id_deportista_especialidades:"+deportista)
-        print(cantidad_especialidades)
-        linea = deportista+","+deportista_seleccionado.get("nombre_deportista")+","+deportista_seleccionado.get("fecha_nacimiento")+","+deportista_seleccionado.get("nombre_pais_deportista")+","+str(cantidad_especialidades)
+    ids_deportistas = ['10', '20', '30','229']
+    for id_deportista in ids_deportistas:
+        datos = db.hgetall("id_deportista_info:" + id_deportista)
+        cantidad_especialidades = db.scard("id_deportista_especialidades:"+id_deportista)
+        #print(cantidad_especialidades)
+        linea = ",".join([id_deportista,datos["nombre_deportista"],datos["fecha_nacimiento"],datos["nombre_pais_deportista"],str(cantidad_especialidades)])
+        #linea = id_deportista+","+deportista_seleccionado.get("nombre_deportista")+","+deportista_seleccionado.get("fecha_nacimiento")+","+deportista_seleccionado.get("nombre_pais_deportista")+","+str(cantidad_especialidades)
         grabar_linea(archivo, linea)
-
-    # luego para cada linea generada como reporte:
-    # grabar_linea(archivo, linea)
-
-
-    pass
-
 
 # Funcion para el borrado de estructuras generadas para este ejercicio
 def finalizar(db):
-    #pass
     db.flushdb()
     # Borrar la estructura de la base de datos
 
