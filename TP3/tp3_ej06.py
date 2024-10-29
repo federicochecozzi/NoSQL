@@ -6,7 +6,7 @@ from itertools import chain
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
 archivo_entrada = 'full_export.csv'
 #archivo_entrada = 'full_export_version_corta.csv'
-nombre_archivo_resultado_ejercicio = 'tp3_ej05.txt'
+nombre_archivo_resultado_ejercicio = 'tp3_ej06.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -59,32 +59,34 @@ def inicializar(conn):
         nombre_deportista TEXT,
         nombre_tipo_especialidad TEXT,
         nombre_especialidad TEXT,
+        nombre_torneo TEXT,
         marca INT,
         intento INT,
-        PRIMARY KEY (nombre_especialidad,nombre_tipo_especialidad,marca)
+        PRIMARY KEY ((nombre_especialidad,nombre_torneo),nombre_tipo_especialidad,marca)
         );
         """
     table_query2 = """
-            CREATE TABLE IF NOT EXISTS marcas_deportista_desc (
-            nombre_deportista TEXT,
-            nombre_tipo_especialidad TEXT,
-            nombre_especialidad TEXT,
-            marca INT,
-            intento INT,
-            PRIMARY KEY (nombre_especialidad,nombre_tipo_especialidad,marca))
-            WITH CLUSTERING ORDER BY(nombre_tipo_especialidad ASC,marca DESC);
-            """
+        CREATE TABLE IF NOT EXISTS marcas_deportista_desc (
+        nombre_deportista TEXT,
+        nombre_tipo_especialidad TEXT,
+        nombre_especialidad TEXT,
+        nombre_torneo TEXT,
+        marca INT,
+        intento INT,
+        PRIMARY KEY ((nombre_especialidad,nombre_torneo),nombre_tipo_especialidad,marca))
+        WITH CLUSTERING ORDER BY(nombre_tipo_especialidad ASC,marca DESC);
+        """
     cassandra_session.execute(table_query)
     cassandra_session.execute(table_query2)
     prepared = []
     prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista(nombre_deportista, nombre_tipo_especialidad,
-    nombre_especialidad,marca,intento) 
-    VALUES(?,?,?,?,?);
+    nombre_especialidad,nombre_torneo,marca,intento) 
+    VALUES(?,?,?,?,?,?);
         """))
     prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista_desc(nombre_deportista, nombre_tipo_especialidad,
-        nombre_especialidad,marca,intento) 
-        VALUES(?,?,?,?,?);
-            """))
+    nombre_especialidad,nombre_torneo,marca,intento) 
+    VALUES(?,?,?,?,?,?);
+        """))
     return cassandra_session, prepared
 
 # Funcion que dada una linea del archivo CSV (en forma de objeto) va a encargarse de insertar el (o los) objetos
@@ -93,10 +95,10 @@ def inicializar(conn):
 def procesar_fila(db, fila, prepared):
     db.execute(prepared[0],
                (fila['nombre_deportista'],fila['nombre_tipo_especialidad'], fila['nombre_especialidad'],
-                int(fila['marca']), int(fila['intento'])))
+                fila['nombre_torneo'],int(fila['marca']), int(fila['intento'])))
     db.execute(prepared[1],
                (fila['nombre_deportista'], fila['nombre_tipo_especialidad'], fila['nombre_especialidad'],
-                int(fila['marca']), int(fila['intento'])))
+                fila['nombre_torneo'],int(fila['marca']), int(fila['intento'])))
     # insertar elemento en entidad para el ejercicio actual
 
 
@@ -106,22 +108,24 @@ def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w',encoding = 'utf-8')
     # luego para cada linea generada como reporte:
     consulta1 = db.execute("""
-    SELECT nombre_deportista,nombre_especialidad,marca,intento FROM marcas_deportista 
+    SELECT nombre_deportista,nombre_especialidad,nombre_torneo,marca,intento FROM marcas_deportista 
     WHERE nombre_tipo_especialidad = 'tiempo' 
     PER PARTITION LIMIT 3
     ALLOW FILTERING
     """)
 
     consulta2 = db.execute("""
-    SELECT nombre_deportista,nombre_especialidad,marca,intento FROM marcas_deportista_desc 
-    WHERE nombre_tipo_especialidad IN ('altura','largo','lanzamiento')  
+    SELECT nombre_deportista,nombre_especialidad,nombre_torneo,marca,intento FROM marcas_deportista_desc 
+    WHERE nombre_tipo_especialidad IN ('altura','largo','lanzamiento')   
     PER PARTITION LIMIT 3
     ALLOW FILTERING
     """)
-    linea = 'nombre_especialidad,nombre_deportista,marca,intento'
+
+    linea = 'nombre_torneo,nombre_especialidad,nombre_deportista,marca,intento'
     grabar_linea(archivo, linea)
+
     for fila in chain(consulta1,consulta2):
-        linea = ",".join([fila.nombre_especialidad,str(fila.nombre_deportista),
+        linea = ",".join([fila.nombre_torneo,fila.nombre_especialidad,str(fila.nombre_deportista),
                           str(fila.marca),str(fila.intento)])
         grabar_linea(archivo, linea)
 
