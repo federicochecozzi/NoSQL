@@ -54,6 +54,7 @@ def grabar_linea(archivo, linea):
 def inicializar(conn):
     cassandra_session = Cluster(contact_points=[conn["cassandraurl"]], port=conn["cassandrapuerto"]).connect(keyspace="mi_keyspace")
     # crear db
+    # Lógica similar al ejercicio 4 y 5, se usa una diferente partition key
     table_query = """
         CREATE TABLE IF NOT EXISTS marcas_deportista (
         nombre_deportista TEXT,
@@ -78,6 +79,7 @@ def inicializar(conn):
         """
     cassandra_session.execute(table_query)
     cassandra_session.execute(table_query2)
+    #uso prepared statements para acelerar la carga de datos, ayuda con consultas repetidas muchas veces
     prepared = []
     prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista(nombre_deportista, nombre_tipo_especialidad,
     nombre_especialidad,nombre_torneo,marca,intento) 
@@ -106,7 +108,7 @@ def procesar_fila(db, fila, prepared):
 # Debe ser implementada por el alumno
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w',encoding = 'utf-8')
-    # luego para cada linea generada como reporte:
+    # similar al ejercicio 5
     consulta1 = db.execute("""
     SELECT nombre_deportista,nombre_especialidad,nombre_torneo,marca,intento FROM marcas_deportista 
     WHERE nombre_tipo_especialidad = 'tiempo' 

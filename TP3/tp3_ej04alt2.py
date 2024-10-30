@@ -54,41 +54,41 @@ def grabar_linea(archivo, linea):
 def inicializar(conn):
     cassandra_session = Cluster(contact_points=[conn["cassandraurl"]], port=conn["cassandrapuerto"]).connect(keyspace="mi_keyspace")
     # crear db
-    #tablas que registran las marcas de un deportista por torneo y especialidad
-    #La primera tabla ordena las marcas de forma ascendente
     table_query = """
         CREATE TABLE IF NOT EXISTS marcas_deportista (
+        id_deportista INT,
         nombre_deportista TEXT,
         nombre_tipo_especialidad TEXT,
+        id_especialidad INT,
         nombre_especialidad TEXT,
         marca INT,
         nombre_torneo TEXT,
         intento INT,
-        PRIMARY KEY ((nombre_especialidad,nombre_deportista),nombre_tipo_especialidad,marca)
+        PRIMARY KEY ((id_deportista,id_especialidad),nombre_tipo_especialidad,nombre_deportista,nombre_especialidad,marca)
         );
         """
-    #La segunca tabla ordena de forma descendente (ayuda a que la lectura sea más simple, ORDER BY es restrictivo)
     table_query2 = """
         CREATE TABLE IF NOT EXISTS marcas_deportista_desc (
+        id_deportista INT,
         nombre_deportista TEXT,
         nombre_tipo_especialidad TEXT,
+        id_especialidad INT,
         nombre_especialidad TEXT,
         marca INT,
         nombre_torneo TEXT,
         intento INT,
-        PRIMARY KEY ((nombre_especialidad,nombre_deportista),nombre_tipo_especialidad,marca)
+        PRIMARY KEY ((id_deportista,id_especialidad),nombre_tipo_especialidad,nombre_deportista,nombre_especialidad,marca)
         )
-        WITH CLUSTERING ORDER BY(nombre_tipo_especialidad ASC,marca DESC);
+        WITH CLUSTERING ORDER BY(nombre_tipo_especialidad ASC,nombre_deportista ASC,nombre_especialidad ASC, marca DESC);
         """
     cassandra_session.execute(table_query)
     cassandra_session.execute(table_query2)
-    #uso prepared statements para acelerar la carga de datos, ayuda con consultas repetidas muchas veces
     prepared = []
-    prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista(nombre_deportista, nombre_tipo_especialidad,
-        nombre_especialidad,marca,nombre_torneo,intento) VALUES(?,?,?,?,?,?);
+    prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista(id_deportista,nombre_deportista, nombre_tipo_especialidad,
+    id_especialidad,nombre_especialidad,marca,nombre_torneo,intento) VALUES(?,?,?,?,?,?,?,?);
         """))
-    prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista_desc(nombre_deportista, nombre_tipo_especialidad,
-        nombre_especialidad,marca,nombre_torneo,intento) VALUES(?,?,?,?,?,?);
+    prepared.append(cassandra_session.prepare("""INSERT INTO marcas_deportista_desc(id_deportista,nombre_deportista, nombre_tipo_especialidad,
+    id_especialidad,nombre_especialidad,marca,nombre_torneo,intento) VALUES(?,?,?,?,?,?,?,?);
         """))
     return cassandra_session, prepared
 
@@ -97,11 +97,11 @@ def inicializar(conn):
 # Debe ser implementada por el alumno
 def procesar_fila(db, fila, prepared):
     db.execute(prepared[0],
-               (fila['nombre_deportista'],fila['nombre_tipo_especialidad'],
+               (int(fila['id_deportista']),fila['nombre_deportista'],fila['nombre_tipo_especialidad'], int(fila['id_especialidad']),
                 fila['nombre_especialidad'],int(fila['marca']), fila['nombre_torneo'], int(fila['intento'])))
     db.execute(prepared[1],
-               (fila['nombre_deportista'], fila['nombre_tipo_especialidad'],
-                fila['nombre_especialidad'], int(fila['marca']), fila['nombre_torneo'], int(fila['intento'])))
+               (int(fila['id_deportista']), fila['nombre_deportista'], fila['nombre_tipo_especialidad'],
+                int(fila['id_especialidad']),fila['nombre_especialidad'], int(fila['marca']), fila['nombre_torneo'], int(fila['intento'])))
     # insertar elemento en entidad para el ejercicio actual
 
 
@@ -109,12 +109,8 @@ def procesar_fila(db, fila, prepared):
 # Debe ser implementada por el alumno
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w',encoding = 'utf-8')
-    #Aprovecho que cada partición (combinación de deportista y especialidad) está ordenada por marca
-    #por cada partición tomo la primera fila, y dependiendo del orden de marcas va a ser el mayor o menor
-    #si es el mejor o peor depende de si el tipo especialidad es de tiempo o no, por lo que se hacen cuatro consultas
-    #si se tuviera que usar ORDER BY, uno estaría forzado a establecer una partición en cada consulta
-    #por eso se cargan dos tablas con los diferentes ordenamientos
-    #igual en una aplicación real quizás uno desearía no estar escaneando la tabla entera
+    # luego para cada linea generada como reporte:
+
     consulta_mejor_tiempo = db.execute("""
         SELECT nombre_deportista,nombre_especialidad, marca, nombre_torneo, intento FROM marcas_deportista
         WHERE nombre_tipo_especialidad = 'tiempo' 
@@ -143,7 +139,6 @@ def generar_reporte(db):
         ALLOW FILTERING
         """)
 
-    #Se alterna la mejor y peor marca
     linea = "nombre_deportista,nombre_especialidad,mejor_marca,intento,nombre_torneo"
     grabar_linea(archivo, linea)
     linea = "nombre_deportista,nombre_especialidad,peor_marca,intento,nombre_torneo"

@@ -3,9 +3,9 @@ from cassandra.cluster import Cluster
 import traceback
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-#archivo_entrada = 'full_export.csv'
-archivo_entrada = 'full_export_version_corta.csv'
-nombre_archivo_resultado_ejercicio = 'tp3_ej01_prueba.txt'
+archivo_entrada = 'full_export.csv'
+#archivo_entrada = 'full_export_version_corta.csv'
+nombre_archivo_resultado_ejercicio = 'tp3_ej01.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -60,6 +60,7 @@ def inicializar(conn):
         );
         """
     cassandra_session.execute(table_query)
+    #uso prepared statements para acelerar la carga de datos, ayuda con consultas repetidas muchas veces
     prepared = cassandra_session.prepare("INSERT INTO deportista (id_deportista, nombre) VALUES (?, ?)")
 
     return cassandra_session, prepared
@@ -78,7 +79,7 @@ def procesar_fila(db, fila, prepared):
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
     # luego para cada linea generada como reporte:
-    ids = (1,2,3)
+    ids = (10,20,30)
     consulta = db.execute("SELECT * FROM deportista WHERE id_deportista IN (%s,%s,%s)"%ids)
     for fila in consulta:
         #print(fila.id_deportista,fila.nombre)

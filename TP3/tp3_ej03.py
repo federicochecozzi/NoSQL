@@ -3,9 +3,9 @@ from cassandra.cluster import Cluster
 import traceback
 
 # Ubicacion del archivo CSV con el contenido provisto por la catedra
-#archivo_entrada = 'full_export.csv'
-archivo_entrada = 'full_export_version_corta.csv'
-nombre_archivo_resultado_ejercicio = 'tp3_ej03_prueba.txt'
+archivo_entrada = 'full_export.csv'
+#archivo_entrada = 'full_export_version_corta.csv'
+nombre_archivo_resultado_ejercicio = 'tp3_ej03.txt'
 
 # Objeto de configuracion para conectarse a la base de datos usada en este ejercicio
 conexion = {
@@ -53,6 +53,8 @@ def grabar_linea(archivo, linea):
 def inicializar(conn):
     cassandra_session = Cluster(contact_points=[conn["cassandraurl"]], port=conn["cassandrapuerto"]).connect(keyspace="mi_keyspace")
     # crear db
+    #una variable COUNTER cuenta la cantidad de marcas por especialidad, se actualiza con cada nueva fila ("marca")
+    #nombre_tipo_especialidad se necesita en el WHERE
     table_query = """
         CREATE TABLE IF NOT EXISTS tipo_especialidad (
         id_tipo_especialidad INT,
@@ -63,6 +65,7 @@ def inicializar(conn):
         );
         """
     cassandra_session.execute(table_query)
+    #uso prepared statements para acelerar la carga de datos, ayuda con consultas repetidas muchas veces
     prepared = cassandra_session.prepare("""UPDATE tipo_especialidad SET cantidad_marcas=cantidad_marcas+1
     WHERE id_tipo_especialidad=? AND nombre_tipo_especialidad=? AND nombre_especialidad=?
     """)
@@ -80,13 +83,13 @@ def procesar_fila(db, fila, prepared):
 # Debe ser implementada por el alumno
 def generar_reporte(db):
     archivo = open(nombre_archivo_resultado_ejercicio, 'w')
-    # luego para cada linea generada como reporte:
-    #ids = (1,2,3)
+    # todas las especialidades con su tipo asociado
     consulta = db.execute("SELECT * FROM tipo_especialidad")
     for fila in consulta:
         linea = ",".join([str(fila.id_tipo_especialidad), fila.nombre_tipo_especialidad, fila.nombre_especialidad])
         grabar_linea(archivo, linea)
 
+    #agrega la cantidad de marcas por id_tipo_especialidad
     consulta = db.execute("SELECT id_tipo_especialidad, nombre_tipo_especialidad, SUM(cantidad_marcas) as marcas FROM tipo_especialidad GROUP BY id_tipo_especialidad")
     for fila in consulta:
         linea = ",".join([fila.nombre_tipo_especialidad, str(fila.marcas)])
