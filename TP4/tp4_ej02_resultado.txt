@@ -1,0 +1,23 @@
+[
+    {
+        "_id" : 10,
+        "nombre" : "Yohan BLAKE",
+        "fecha_nacimiento" : "1989-12-26",
+        "id_pais_deportista" : 86,
+        "nombre_pais_deportista" : "Jamaica"
+    },
+    {
+        "_id" : 20,
+        "nombre" : "Tyquendo TRACEY",
+        "fecha_nacimiento" : "1993-06-10",
+        "id_pais_deportista" : 86,
+        "nombre_pais_deportista" : "Jamaica"
+    },
+    {
+        "_id" : 30,
+        "nombre" : "Carina HORN",
+        "fecha_nacimiento" : "1989-03-09",
+        "id_pais_deportista" : 164,
+        "nombre_pais_deportista" : "South Africa"
+    }
+]

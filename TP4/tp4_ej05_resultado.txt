@@ -1,0 +1,46 @@
+[
+    {
+        "_id" : 1,
+        "nombre" : "tiempo",
+        "especialidades" : [ 
+            "carrera 110 m con vallas", 
+            "carrera 5000 m", 
+            "carrera 200 m", 
+            "carrera 3000 m con vallas", 
+            "carrera 42000 m", 
+            "carrera 400 m con vallas", 
+            "carrera 1500 m", 
+            "carrera 400 m", 
+            "carrera 10000 m", 
+            "carrera 100 m", 
+            "carrera 21000 m", 
+            "carrera 800 m"
+        ]
+    },
+    {
+        "_id" : 3,
+        "nombre" : "largo",
+        "especialidades" : [ 
+            "salto triple", 
+            "salto largo"
+        ]
+    },
+    {
+        "_id" : 4,
+        "nombre" : "lanzamiento",
+        "especialidades" : [ 
+            "lanzamiento de martillo", 
+            "lanzamiento de jabalina", 
+            "lanzamiento de bala", 
+            "lanzamiento de disco"
+        ]
+    },
+    {
+        "_id" : 2,
+        "nombre" : "altura",
+        "especialidades" : [ 
+            "salto de altura", 
+            "salto con pertiga"
+        ]
+    }
+]

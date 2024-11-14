@@ -1,0 +1,1 @@
+db.getCollection('deportistas').aggregate([{$group:{_id:"$nombre_pais_deportista",cantidad_deportistas:{$sum:1}}},{$sort:{cantidad_deportistas:-1}}]).toArray();
