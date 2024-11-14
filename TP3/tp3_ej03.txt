@@ -1,0 +1,26 @@
+id_tipo_especialidad,nombre_tipo_especialidad,nombre_especialidad
+1,tiempo,carrera 100 m
+1,tiempo,carrera 10000 m
+1,tiempo,carrera 110 m con vallas
+1,tiempo,carrera 1500 m
+1,tiempo,carrera 200 m
+1,tiempo,carrera 21000 m
+1,tiempo,carrera 3000 m con vallas
+1,tiempo,carrera 400 m
+1,tiempo,carrera 400 m con vallas
+1,tiempo,carrera 42000 m
+1,tiempo,carrera 5000 m
+1,tiempo,carrera 800 m
+2,altura,salto con pertiga
+2,altura,salto de altura
+4,lanzamiento,lanzamiento de bala
+4,lanzamiento,lanzamiento de disco
+4,lanzamiento,lanzamiento de jabalina
+4,lanzamiento,lanzamiento de martillo
+3,largo,salto largo
+3,largo,salto triple
+id_tipo_especialidad,nombre_tipo_especialidad,nombre_especialidad
+tiempo,96681
+altura,15879
+lanzamiento,32361
+largo,16482

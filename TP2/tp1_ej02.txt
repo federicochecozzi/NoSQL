@@ -1,0 +1,4 @@
+id_deportista,deportista,fecha_nacimiento,nombre_pais_deportista
+10,Yohan BLAKE,1989-12-26,Jamaica
+20,Tyquendo TRACEY,1993-06-10,Jamaica
+30,Carina HORN,1989-03-09,South Africa

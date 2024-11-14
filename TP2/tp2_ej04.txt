@@ -1,0 +1,5 @@
+id_tipo_especialidad,nombre_tipo_especialidad,cantidad_especialidades
+1,tiempo,12
+3,largo,2
+2,altura,2
+4,lanzamiento,4

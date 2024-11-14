@@ -1,0 +1,61 @@
+nombre_especialidad,nombre_deportista,marca,intento
+carrera 21000 m,Evaline CHIRCHIR,3481005,1
+carrera 21000 m,Zeineba YIMER,3481062,1
+carrera 21000 m,Roza DEREJE,3481121,1
+carrera 10000 m,Lopez LOMONG,1608036,1
+carrera 10000 m,Abdallah Kibet MANDE,1608063,1
+carrera 10000 m,Rodgers KWEMOI,1608075,1
+carrera 800 m,Francine NIYONSABA,101892,1
+carrera 800 m,Natalya PRYSHCHEPA,101893,1
+carrera 800 m,Natoya GOULE,101894,1
+carrera 3000 m con vallas,Andrew BAYER,481036,1
+carrera 3000 m con vallas,Chala BEYO,481040,1
+carrera 3000 m con vallas,Norah JERUTO,481044,1
+carrera 110 m con vallas,Payton CHADWICK,12098,1
+carrera 110 m con vallas,Anna COCKRELL,12099,1
+carrera 110 m con vallas,Sally PEARSON,12100,1
+carrera 42000 m,Zeineba YIMER,7301146,1
+carrera 42000 m,Kinde ATANAW,7301386,1
+carrera 42000 m,Kinde ATANAW,7301499,1
+carrera 400 m,Phyllis FRANCIS,43450,1
+carrera 400 m,Courtney OKOLO,43451,1
+carrera 400 m,Sharrika BARNETT,43452,1
+carrera 5000 m,Sifan HASSAN,772098,1
+carrera 5000 m,Birhanu BALEW,772110,1
+carrera 5000 m,Selemon BAREGA,772111,1
+carrera 1500 m,Sifan HASSAN,208771,1
+carrera 1500 m,Dawit SEYAUM,208772,1
+carrera 1500 m,Shelby HOULIHAN,208773,1
+carrera 200 m,Kayla WHITE,19500,1
+carrera 200 m,Amy HUNT,19501,1
+carrera 200 m,Zhenye XIE,19502,1
+carrera 100 m,Blessing OKAGBARE,9760,1
+carrera 100 m,Manqi GE,9761,1
+carrera 100 m,Briana WILLIAMS,9762,1
+carrera 400 m con vallas,Ashley SPENCER,46092,1
+carrera 400 m con vallas,TJ HOLMES,46094,1
+carrera 400 m con vallas,Alison DOS SANTOS,46095,1
+salto triple,Nelson ÉVORA,1996,3
+salto triple,Alexis COPELLO,1995,8
+salto triple,Alexis COPELLO,1994,2
+lanzamiento de disco,Kelsey CARD,7905,1
+lanzamiento de disco,Kelsey CARD,7904,1
+lanzamiento de disco,Laulauga TAUSAGA,7903,9
+salto con pertiga,Ninon GUILLON-ROMARIN,667,7
+salto con pertiga,Ninon GUILLON-ROMARIN,666,9
+salto con pertiga,Ninon GUILLON-ROMARIN,665,8
+lanzamiento de martillo,Janee KASSANAVOID,8992,8
+lanzamiento de martillo,Serhiy PEREVOZNIKOV,8991,2
+lanzamiento de martillo,Yelizaveta TSAREVA,8990,9
+lanzamiento de jabalina,Marcin KRUKOWSKI,9968,3
+lanzamiento de jabalina,Jakub VADLEJCH,9967,4
+lanzamiento de jabalina,Antti RUUSKANEN,9966,5
+salto de altura,Ana ŠIMIĆ,261,6
+salto de altura,Ana ŠIMIĆ,260,7
+salto de altura,Ana ŠIMIĆ,259,4
+salto largo,Keturah ORJI,956,7
+salto largo,Keturah ORJI,955,6
+salto largo,Keturah ORJI,954,3
+lanzamiento de bala,Alyona GORDEYEVA,2521,8
+lanzamiento de bala,Alyona GORDEYEVA,2520,9
+lanzamiento de bala,Rachel FATHERLY,2519,9

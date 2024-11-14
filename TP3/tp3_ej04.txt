@@ -1,0 +1,1608 @@
+nombre_deportista,nombre_especialidad,mejor_marca,intento,nombre_torneo
+nombre_deportista,nombre_especialidad,peor_marca,intento,nombre_torneo
+Amere LATTIN,carrera 400 m con vallas,46115,1,Torneo de Mexico
+Amere LATTIN,carrera 400 m con vallas,50682,1,Torneo de Chile
+Antonio ALKANA,carrera 110 m con vallas,12099,1,Torneo de Romania
+Antonio ALKANA,carrera 110 m con vallas,13307,1,Torneo de Papua New Guinea
+Geoffrey KAMWOROR,carrera 21000 m,3484230,1,Torneo de Bulgaria
+Geoffrey KAMWOROR,carrera 21000 m,3827647,1,Torneo de Namibia
+Birhane DIBABA,carrera 42000 m,7303234,1,Torneo de Gambia
+Birhane DIBABA,carrera 42000 m,8023527,1,Torneo de Syria
+Matthew CENTROWITZ,carrera 1500 m,208772,1,Torneo de Niger
+Matthew CENTROWITZ,carrera 1500 m,229629,1,Torneo de Saint Kitts and Nevis
+Genevieve GREGSON,carrera 3000 m con vallas,481076,1,Torneo de Chad
+Genevieve GREGSON,carrera 3000 m con vallas,528811,1,Torneo de Mexico
+Nicholas Kiptanui BETT,carrera 3000 m con vallas,481261,1,Torneo de Seychelles
+Nicholas Kiptanui BETT,carrera 3000 m con vallas,528928,1,Torneo de Nicaragua
+Nikita TRACEY,carrera 400 m con vallas,46153,1,Torneo de Ivory Coast
+Nikita TRACEY,carrera 400 m con vallas,50617,1,Torneo de Zambia
+Marius KIPSEREM,carrera 42000 m,7307460,1,Torneo de Uzbekistan
+Marius KIPSEREM,carrera 42000 m,8026004,1,Torneo de Afghanistan
+Solomon BERIHU,carrera 21000 m,3484137,1,Torneo de Vatican City
+Solomon BERIHU,carrera 21000 m,3826954,1,Torneo de Cambodia
+Janeek BROWN,carrera 200 m,19505,1,Torneo de Niger
+Janeek BROWN,carrera 200 m,21442,1,Torneo de Australia
+Sally PEARSON,carrera 110 m con vallas,12100,1,Torneo de Palau
+Sally PEARSON,carrera 110 m con vallas,13305,1,Torneo de Mongolia
+Aminat JAMAL,carrera 400 m con vallas,46108,1,Torneo de Haiti
+Aminat JAMAL,carrera 400 m con vallas,50698,1,Torneo de Botswana
+Rai BENJAMIN,carrera 400 m,43457,1,Torneo de Burkina Faso
+Rai BENJAMIN,carrera 400 m,47794,1,Torneo de Cyprus
+Ayanleh SOULEIMAN,carrera 800 m,101918,1,Torneo de Barbados
+Ayanleh SOULEIMAN,carrera 800 m,112066,1,Torneo de Rwanda
+Shura KITATA,carrera 42000 m,7307905,1,Torneo de Slovakia
+Shura KITATA,carrera 42000 m,8024238,1,Torneo de Myanmar
+Elaine THOMPSON,carrera 200 m,19500,1,Torneo de Grenada
+Elaine THOMPSON,carrera 200 m,21444,1,Torneo de Luxembourg
+Gabriel CONSTANTINO,carrera 110 m con vallas,12098,1,Torneo de Timor-Leste
+Gabriel CONSTANTINO,carrera 110 m con vallas,13306,1,Torneo de Lesotho
+Edwin KIPTOO,carrera 21000 m,3484115,1,Torneo de Grenada
+Edwin KIPTOO,carrera 21000 m,3827304,1,Torneo de Thailand
+Abdelmalik LAHOULOU,carrera 400 m con vallas,46099,1,Torneo de Chile
+Abdelmalik LAHOULOU,carrera 400 m con vallas,50702,1,Torneo de Lithuania
+Noah LYLES,carrera 100 m,9760,1,Torneo de Puerto Rico
+Noah LYLES,carrera 100 m,10736,1,Torneo de Libya
+Workenesh EDESA,carrera 42000 m,7304505,1,Torneo de Lebanon
+Workenesh EDESA,carrera 42000 m,8028679,1,Torneo de Chile
+Lopez LOMONG,carrera 5000 m,772331,1,Torneo de Nigeria
+Lopez LOMONG,carrera 5000 m,849264,1,Torneo de Norway
+Courtney FRERICHS,carrera 3000 m con vallas,482244,1,Torneo de Solomon Islands
+Courtney FRERICHS,carrera 3000 m con vallas,528970,1,Torneo de Switzerland
+Amy HUNT,carrera 200 m,19501,1,Torneo de Greece
+Amy HUNT,carrera 200 m,21438,1,Torneo de Netherlands
+Arthur CISSÉ,carrera 100 m,9760,1,Torneo de Georgia
+Arthur CISSÉ,carrera 100 m,10735,1,Torneo de Eritrea
+Felix KIBITOK,carrera 21000 m,3482012,1,Torneo de Lebanon
+Felix KIBITOK,carrera 21000 m,3826570,1,Torneo de Poland
+Sharika NELVIS,carrera 110 m con vallas,12129,1,Torneo de Sudan
+Sharika NELVIS,carrera 110 m con vallas,13304,1,Torneo de Bangladesh
+Sokwakhana ZAZINI,carrera 400 m con vallas,46121,1,Torneo de Serbia
+Sokwakhana ZAZINI,carrera 400 m con vallas,50623,1,Torneo de Suriname
+George Meitamei MANANGOI,carrera 1500 m,208809,1,Torneo de Albania
+George Meitamei MANANGOI,carrera 1500 m,229624,1,Torneo de Panama
+Senbere TEFERI,carrera 10000 m,1608244,1,Torneo de Guyana
+Senbere TEFERI,carrera 10000 m,1768606,1,Torneo de Tanzania
+Eilish MCCOLGAN,carrera 1500 m,208821,1,Torneo de Turkey
+Eilish MCCOLGAN,carrera 1500 m,229632,1,Torneo de Lithuania
+Yongli WEI,carrera 100 m,9779,1,Torneo de Mongolia
+Yongli WEI,carrera 100 m,10718,1,Torneo de Costa Rica
+Soufiane EL BAKKALI,carrera 3000 m con vallas,481711,1,Torneo de Marshall Islands
+Soufiane EL BAKKALI,carrera 3000 m con vallas,529036,1,Torneo de Germany
+Anna COCKRELL,carrera 110 m con vallas,12098,1,Torneo de Tunisia
+Anna COCKRELL,carrera 110 m con vallas,13301,1,Torneo de Uzbekistan
+Ashete BEKERE,carrera 42000 m,7304332,1,Torneo de Cabo Verde
+Ashete BEKERE,carrera 42000 m,8027313,1,Torneo de Netherlands
+Ludvy VAILLANT,carrera 400 m con vallas,46118,1,Torneo de Vietnam
+Ludvy VAILLANT,carrera 400 m con vallas,50697,1,Torneo de Gambia
+Nia ALI,carrera 110 m con vallas,12102,1,Torneo de Papua New Guinea
+Nia ALI,carrera 110 m con vallas,13305,1,Torneo de Vanuatu
+Abdallah Kibet MANDE,carrera 10000 m,1608063,1,Torneo de Luxembourg
+Abdallah Kibet MANDE,carrera 10000 m,1768314,1,Torneo de Netherlands
+Michael CHERRY,carrera 400 m,43454,1,Torneo de Equatorial Guinea
+Michael CHERRY,carrera 400 m,47788,1,Torneo de Congo Republic of the
+Stephanie TWELL,carrera 10000 m,1610159,1,Torneo de Morocco
+Stephanie TWELL,carrera 10000 m,1766905,1,Torneo de Vatican City
+Hanna GREEN,carrera 800 m,101928,1,Torneo de Georgia
+Hanna GREEN,carrera 800 m,112020,1,Torneo de Timor-Leste
+Purity Cherotich RIONORIPO,carrera 42000 m,7303553,1,Torneo de Germany
+Purity Cherotich RIONORIPO,carrera 42000 m,8031054,1,Torneo de Chad
+Brigid KOSGEI,carrera 42000 m,7305943,1,Torneo de Ethiopia
+Brigid KOSGEI,carrera 42000 m,8026138,1,Torneo de Ireland
+Laura WEIGHTMAN,carrera 1500 m,208792,1,Torneo de Mongolia
+Laura WEIGHTMAN,carrera 1500 m,229613,1,Torneo de Chile
+Britany ANDERSON,carrera 110 m con vallas,12105,1,Torneo de Antigua and Barbuda
+Britany ANDERSON,carrera 110 m con vallas,13297,1,Torneo de Maldives
+Yemaneberhan CRIPPA,carrera 10000 m,1609113,1,Torneo de Netherlands
+Yemaneberhan CRIPPA,carrera 10000 m,1768515,1,Torneo de Mali
+Mule WASIHUN,carrera 42000 m,7303410,1,Torneo de Sierra Leone
+Mule WASIHUN,carrera 42000 m,8026576,1,Torneo de Cambodia
+Ferguson Cheruiyot ROTICH,carrera 800 m,101918,1,Torneo de Netherlands
+Ferguson Cheruiyot ROTICH,carrera 800 m,112019,1,Torneo de Virgin Islands (British)
+Payton CHADWICK,carrera 110 m con vallas,12098,1,Torneo de Tonga
+Payton CHADWICK,carrera 110 m con vallas,13305,1,Torneo de Eritrea
+Eunice Jepkoech SUM,carrera 800 m,101915,1,Torneo de Colombia
+Eunice Jepkoech SUM,carrera 800 m,112045,1,Torneo de Lebanon
+Charlie DAVALL GRICE,carrera 1500 m,208780,1,Torneo de Guatemala
+Charlie DAVALL GRICE,carrera 1500 m,229577,1,Torneo de Kiribati
+Ababel YESHANEH,carrera 42000 m,7304941,1,Torneo de Albania
+Ababel YESHANEH,carrera 42000 m,8030474,1,Torneo de Lithuania
+Michael RODGERS,carrera 100 m,9760,1,Torneo de Lebanon
+Michael RODGERS,carrera 100 m,10733,1,Torneo de Uruguay
+Muktar EDRIS,carrera 5000 m,773126,1,Torneo de Angola
+Muktar EDRIS,carrera 5000 m,849223,1,Torneo de Estonia
+Marcio TELES,carrera 400 m con vallas,46151,1,Torneo de Jamaica
+Marcio TELES,carrera 400 m con vallas,50693,1,Torneo de United States
+Bryce HOPPEL,carrera 800 m,102083,1,Torneo de Tunisia
+Bryce HOPPEL,carrera 800 m,112070,1,Torneo de Bulgaria
+Marielle HALL,carrera 10000 m,1608971,1,Torneo de Switzerland
+Marielle HALL,carrera 10000 m,1766456,1,Torneo de Azerbaijan
+Birhane DIBABA,carrera 21000 m,3488790,1,Torneo de Guinea
+Birhane DIBABA,carrera 21000 m,3828892,1,Torneo de Chile
+Hillary BOR,carrera 3000 m con vallas,481332,1,Torneo de French Guiana
+Hillary BOR,carrera 3000 m con vallas,529108,1,Torneo de Bulgaria
+Laviai NIELSEN,carrera 400 m,43466,1,Torneo de Kenya
+Laviai NIELSEN,carrera 400 m,47793,1,Torneo de New Zealand
+Norman GRIMES,carrera 400 m con vallas,46130,1,Torneo de Botswana
+Norman GRIMES,carrera 400 m con vallas,50625,1,Torneo de Ivory Coast
+Laura MUIR,carrera 800 m,101895,1,Torneo de Malawi
+Laura MUIR,carrera 800 m,112043,1,Torneo de Pakistan
+Djilali BEDRANI,carrera 3000 m con vallas,482078,1,Torneo de Moldova
+Djilali BEDRANI,carrera 3000 m con vallas,528354,1,Torneo de Turkmenistan
+Milan TRAJKOVIC,carrera 110 m con vallas,12106,1,Torneo de Namibia
+Milan TRAJKOVIC,carrera 110 m con vallas,13301,1,Torneo de Kosovo
+Alex QUIÑÓNEZ,carrera 200 m,19514,1,Torneo de Lebanon
+Alex QUIÑÓNEZ,carrera 200 m,21446,1,Torneo de Solomon Islands
+Jemal Yimer MEKONNEN,carrera 21000 m,3484446,1,Torneo de Saint Lucia
+Jemal Yimer MEKONNEN,carrera 21000 m,3826906,1,Torneo de Sweden
+Nelly JEPKOSGEI,carrera 800 m,101909,1,Torneo de China
+Nelly JEPKOSGEI,carrera 800 m,112032,1,Torneo de Turkmenistan
+Sage WATSON,carrera 400 m con vallas,46178,1,Torneo de Central African Republic
+Sage WATSON,carrera 400 m con vallas,50699,1,Torneo de Kenya
+Azmera ABREHA,carrera 42000 m,7311781,1,Torneo de Palau
+Azmera ABREHA,carrera 42000 m,8029944,1,Torneo de Colombia
+Megan TAPPER,carrera 110 m con vallas,12115,1,Torneo de Saint Lucia
+Megan TAPPER,carrera 110 m con vallas,13302,1,Torneo de Wales
+Herpasa NEGASA,carrera 42000 m,7304817,1,Torneo de Eritrea
+Herpasa NEGASA,carrera 42000 m,8030853,1,Torneo de Tajikistan
+Axumawit EMBAYE,carrera 1500 m,208867,1,Torneo de Mongolia
+Axumawit EMBAYE,carrera 1500 m,229647,1,Torneo de Algeria
+Rhonex KIPRUTO,carrera 10000 m,1608528,1,Torneo de Israel
+Rhonex KIPRUTO,carrera 10000 m,1768742,1,Torneo de Gabon
+Andrew BAYER,carrera 3000 m con vallas,481036,1,Torneo de New Zealand
+Andrew BAYER,carrera 3000 m con vallas,529061,1,Torneo de Canada
+Brandon MCBRIDE,carrera 800 m,102106,1,Torneo de Grenada
+Brandon MCBRIDE,carrera 800 m,111994,1,Torneo de Brazil
+Jake WIGHTMAN,carrera 1500 m,208828,1,Torneo de Bosnia and Herzegovina
+Jake WIGHTMAN,carrera 1500 m,229574,1,Torneo de Taiwan
+Tynia GAITHER,carrera 100 m,9760,1,Torneo de Kyrgyzstan
+Tynia GAITHER,carrera 100 m,10735,1,Torneo de Dominican Republic
+Queen CLAYE,carrera 110 m con vallas,12098,1,Torneo de Djibouti
+Queen CLAYE,carrera 110 m con vallas,13295,1,Torneo de Jamaica
+Filip INGEBRIGTSEN,carrera 1500 m,208778,1,Torneo de Bosnia and Herzegovina
+Filip INGEBRIGTSEN,carrera 1500 m,229448,1,Torneo de Somalia
+Lonah Chemtai SALPETER,carrera 42000 m,7310801,1,Torneo de Zimbabwe
+Lonah Chemtai SALPETER,carrera 42000 m,8030831,1,Torneo de Haiti
+Mercy WANJIRU,carrera 3000 m con vallas,481184,1,Torneo de Marshall Islands
+Mercy WANJIRU,carrera 3000 m con vallas,529071,1,Torneo de Colombia
+Zuzana HEJNOVÁ,carrera 400 m con vallas,46138,1,Torneo de Azerbaijan
+Zuzana HEJNOVÁ,carrera 400 m con vallas,50693,1,Torneo de Dominican Republic
+Collins KIPRUTO,carrera 800 m,101906,1,Torneo de Czechia
+Collins KIPRUTO,carrera 800 m,112056,1,Torneo de Rwanda
+Dalilah MUHAMMAD,carrera 400 m con vallas,46135,1,Torneo de Cambodia
+Dalilah MUHAMMAD,carrera 400 m con vallas,50646,1,Torneo de Libya
+Abderrahman SAMBA,carrera 400 m,43477,1,Torneo de Estonia
+Abderrahman SAMBA,carrera 400 m,47769,1,Torneo de Taiwan
+Daisy JEPKEMEI,carrera 3000 m con vallas,481060,1,Torneo de Ecuador
+Daisy JEPKEMEI,carrera 3000 m con vallas,528623,1,Torneo de Guyana
+Hellen OBIRI,carrera 5000 m,772409,1,Torneo de Nepal
+Hellen OBIRI,carrera 5000 m,849204,1,Torneo de Nicaragua
+Sarah MCDONALD,carrera 1500 m,208794,1,Torneo de Peru
+Sarah MCDONALD,carrera 1500 m,229428,1,Torneo de Serbia
+Danielle WILLIAMS,carrera 110 m con vallas,12100,1,Torneo de Moldova
+Danielle WILLIAMS,carrera 110 m con vallas,13306,1,Torneo de Tunisia
+Noah LYLES,carrera 200 m,19505,1,Torneo de Serbia
+Noah LYLES,carrera 200 m,21444,1,Torneo de South Sudan
+Kenneth BEDNAREK,carrera 200 m,19514,1,Torneo de Botswana
+Kenneth BEDNAREK,carrera 200 m,21444,1,Torneo de Gambia
+Titus EKIRU,carrera 42000 m,7303429,1,Torneo de Bahrain
+Titus EKIRU,carrera 42000 m,8026434,1,Torneo de Luxembourg
+Dalilah MUHAMMAD,carrera 400 m,43467,1,Torneo de Malta
+Dalilah MUHAMMAD,carrera 400 m,47786,1,Torneo de Timor-Leste
+Laura MUIR,carrera 1500 m,209050,1,Torneo de Italy
+Laura MUIR,carrera 1500 m,229591,1,Torneo de Liechtenstein
+Lawrence Kemboi KIPSANG,carrera 3000 m con vallas,481452,1,Torneo de Mauritania
+Lawrence Kemboi KIPSANG,carrera 3000 m con vallas,528660,1,Torneo de Benin
+Wilhem BELOCIAN,carrera 110 m con vallas,12112,1,Torneo de Vietnam
+Wilhem BELOCIAN,carrera 110 m con vallas,13302,1,Torneo de Cabo Verde
+Sifan HASSAN,carrera 1500 m,208771,1,Torneo de South Sudan
+Sifan HASSAN,carrera 1500 m,229521,1,Torneo de Ghana
+Dafne SCHIPPERS,carrera 200 m,19501,1,Torneo de United Kingdom
+Dafne SCHIPPERS,carrera 200 m,21444,1,Torneo de Dominican Republic
+Clarence MUNYAI,carrera 200 m,19503,1,Torneo de Peru
+Clarence MUNYAI,carrera 200 m,21434,1,Torneo de Zambia
+Dafne SCHIPPERS,carrera 100 m,9776,1,Torneo de Congo Republic of the
+Dafne SCHIPPERS,carrera 100 m,10734,1,Torneo de Cambodia
+Reece PRESCOD,carrera 100 m,9762,1,Torneo de Niger
+Reece PRESCOD,carrera 100 m,10733,1,Torneo de Libya
+Faith KIPYEGON,carrera 1500 m,208809,1,Torneo de Finland
+Faith KIPYEGON,carrera 1500 m,229641,1,Torneo de Comoros
+Yomif KEJELCHA,carrera 5000 m,772725,1,Torneo de Qatar
+Yomif KEJELCHA,carrera 5000 m,848818,1,Torneo de United Kingdom
+Trevor STEWART,carrera 400 m,43458,1,Torneo de Japan
+Trevor STEWART,carrera 400 m,47783,1,Torneo de Russia
+Mohamed TINDOUFT,carrera 3000 m con vallas,481061,1,Torneo de Kyrgyzstan
+Mohamed TINDOUFT,carrera 3000 m con vallas,528938,1,Torneo de Suriname
+Akeem BLOOMFIELD,carrera 400 m,43476,1,Torneo de Burkina Faso
+Akeem BLOOMFIELD,carrera 400 m,47760,1,Torneo de Malaysia
+Cravon GILLESPIE,carrera 100 m,9769,1,Torneo de Barbados
+Cravon GILLESPIE,carrera 100 m,10731,1,Torneo de Honduras
+Karoline Bjerkeli GRØVDAL,carrera 5000 m,772375,1,Torneo de Djibouti
+Karoline Bjerkeli GRØVDAL,carrera 5000 m,849135,1,Torneo de Czechia
+Orlando ORTEGA,carrera 110 m con vallas,12109,1,Torneo de Kuwait
+Orlando ORTEGA,carrera 110 m con vallas,13304,1,Torneo de Jordan
+Wadeline JONATHAS,carrera 400 m,43458,1,Torneo de Scotland
+Wadeline JONATHAS,carrera 400 m,47795,1,Torneo de Sudan
+Ruth CHEPNGETICH,carrera 42000 m,7308031,1,Torneo de Egypt
+Ruth CHEPNGETICH,carrera 42000 m,8028469,1,Torneo de Nauru
+Kinde ATANAW,carrera 42000 m,7301386,1,Torneo de Guyana
+Kinde ATANAW,carrera 42000 m,8025039,1,Torneo de Lithuania
+Jonielle SMITH,carrera 100 m,9763,1,Torneo de Germany
+Jonielle SMITH,carrera 100 m,10734,1,Torneo de Lesotho
+Joshua CHEPTEGEI,carrera 5000 m,772176,1,Torneo de Kyrgyzstan
+Joshua CHEPTEGEI,carrera 5000 m,848785,1,Torneo de Puerto Rico
+Cassandra TATE,carrera 400 m con vallas,46113,1,Torneo de Indonesia
+Cassandra TATE,carrera 400 m con vallas,50675,1,Torneo de Cambodia
+Francine NIYONSABA,carrera 800 m,101892,1,Torneo de Libya
+Francine NIYONSABA,carrera 800 m,112075,1,Torneo de Serbia
+Gladys CHERONO,carrera 42000 m,7309791,1,Torneo de Russia
+Gladys CHERONO,carrera 42000 m,8029220,1,Torneo de Panama
+Andrew POZZI,carrera 110 m con vallas,12104,1,Torneo de Nauru
+Andrew POZZI,carrera 110 m con vallas,13306,1,Torneo de Ivory Coast
+Divine ODUDURU,carrera 100 m,9761,1,Torneo de Djibouti
+Divine ODUDURU,carrera 100 m,10716,1,Torneo de Central African Republic
+Conseslus KIPRUTO,carrera 3000 m con vallas,481433,1,Torneo de Italy
+Conseslus KIPRUTO,carrera 3000 m con vallas,528674,1,Torneo de New Zealand
+Julien WANDERS,carrera 10000 m,1608920,1,Torneo de Pakistan
+Julien WANDERS,carrera 10000 m,1767881,1,Torneo de Panama
+Vincent KIBET,carrera 1500 m,208853,1,Torneo de Uganda
+Vincent KIBET,carrera 1500 m,229496,1,Torneo de Cabo Verde
+Dina ASHER-SMITH,carrera 200 m,19507,1,Torneo de Jamaica
+Dina ASHER-SMITH,carrera 200 m,21441,1,Torneo de Kosovo
+Leonard BARSOTON,carrera 21000 m,3484102,1,Torneo de Papua New Guinea
+Leonard BARSOTON,carrera 21000 m,3827516,1,Torneo de Guatemala
+Ivet LALOVA-COLLIO,carrera 200 m,19504,1,Torneo de Guinea
+Ivet LALOVA-COLLIO,carrera 200 m,21446,1,Torneo de Marshall Islands
+Mohammed AHMED,carrera 10000 m,1608242,1,Torneo de Cambodia
+Mohammed AHMED,carrera 10000 m,1768340,1,Torneo de Central African Republic
+Beatrice CHEPKOECH,carrera 5000 m,772231,1,Torneo de Ghana
+Beatrice CHEPKOECH,carrera 5000 m,848797,1,Torneo de Dominican Republic
+Gabriela DEBUES-STAFFORD,carrera 1500 m,208819,1,Torneo de Kuwait
+Gabriela DEBUES-STAFFORD,carrera 1500 m,229437,1,Torneo de Bolivia
+Aleia HOBBS,carrera 100 m,9760,1,Torneo de Namibia
+Aleia HOBBS,carrera 100 m,10736,1,Torneo de Haiti
+Mekides ABEBE,carrera 3000 m con vallas,481379,1,Torneo de Saint Vincent and the Grenadines
+Mekides ABEBE,carrera 3000 m con vallas,529087,1,Torneo de Bolivia
+Emmanuel SAINA,carrera 42000 m,7304424,1,Torneo de Burundi
+Emmanuel SAINA,carrera 42000 m,8030868,1,Torneo de Laos
+Elijah Motonei MANANGOI,carrera 1500 m,208951,1,Torneo de Armenia
+Elijah Motonei MANANGOI,carrera 1500 m,229494,1,Torneo de French Guiana
+Philemon RONO,carrera 42000 m,7304007,1,Torneo de Tonga
+Philemon RONO,carrera 42000 m,8027625,1,Torneo de Sweden
+Janieve RUSSELL,carrera 400 m con vallas,46208,1,Torneo de Taiwan
+Janieve RUSSELL,carrera 400 m con vallas,50684,1,Torneo de Marshall Islands
+Joan Chelimo MELLY,carrera 21000 m,3482666,1,Torneo de Nicaragua
+Joan Chelimo MELLY,carrera 21000 m,3824795,1,Torneo de Saudi Arabia
+Nicholas Kipkorir KIMELI,carrera 5000 m,772709,1,Torneo de Andorra
+Nicholas Kipkorir KIMELI,carrera 5000 m,849023,1,Torneo de Austria
+Gloriah KITE,carrera 5000 m,772318,1,Torneo de Algeria
+Gloriah KITE,carrera 5000 m,849207,1,Torneo de Serbia
+Edward Zakayo PINGUA,carrera 5000 m,772128,1,Torneo de Saudi Arabia
+Edward Zakayo PINGUA,carrera 5000 m,848817,1,Torneo de Bahamas
+Netsanet GUDETA,carrera 10000 m,1609354,1,Torneo de Argentina
+Netsanet GUDETA,carrera 10000 m,1768375,1,Torneo de Monaco
+Isiah YOUNG,carrera 100 m,9769,1,Torneo de Macedonia
+Isiah YOUNG,carrera 100 m,10728,1,Torneo de Barbados
+Konstanze KLOSTERHALFEN,carrera 1500 m,208796,1,Torneo de Burundi
+Konstanze KLOSTERHALFEN,carrera 1500 m,229463,1,Torneo de Sierra Leone
+Lindsay HANEKOM,carrera 400 m con vallas,46092,1,Torneo de Sudan
+Lindsay HANEKOM,carrera 400 m con vallas,50699,1,Torneo de Jordan
+Catriona BISSET,carrera 800 m,101954,1,Torneo de Hungary
+Catriona BISSET,carrera 800 m,112078,1,Torneo de South Africa
+Anna RYZHYKOVA,carrera 400 m con vallas,46101,1,Torneo de Georgia
+Anna RYZHYKOVA,carrera 400 m con vallas,50656,1,Torneo de Benin
+Alfred KIPKETER,carrera 800 m,101945,1,Torneo de Argentina
+Alfred KIPKETER,carrera 800 m,112066,1,Torneo de Philippines
+Kenneth BEDNAREK,carrera 400 m,43496,1,Torneo de Uzbekistan
+Kenneth BEDNAREK,carrera 400 m,47784,1,Torneo de Taiwan
+Ayomide FOLORUNSO,carrera 400 m con vallas,46199,1,Torneo de South Africa
+Ayomide FOLORUNSO,carrera 400 m con vallas,50696,1,Torneo de Chad
+Grant HOLLOWAY,carrera 110 m con vallas,12101,1,Torneo de Canada
+Grant HOLLOWAY,carrera 110 m con vallas,13308,1,Torneo de Vanuatu
+Josh KERR,carrera 1500 m,208786,1,Torneo de Finland
+Josh KERR,carrera 1500 m,229632,1,Torneo de Azerbaijan
+Twanisha TERRY,carrera 100 m,9769,1,Torneo de Scotland
+Twanisha TERRY,carrera 100 m,10734,1,Torneo de Luxembourg
+Telahun Haile BEKELE,carrera 5000 m,772121,1,Torneo de Samoa
+Telahun Haile BEKELE,carrera 5000 m,849204,1,Torneo de Sierra Leone
+Abdul Hakim SANI BROWN,carrera 100 m,9763,1,Torneo de Mali
+Abdul Hakim SANI BROWN,carrera 100 m,10731,1,Torneo de Equatorial Guinea
+Emily SISSON,carrera 10000 m,1609185,1,Torneo de Hungary
+Emily SISSON,carrera 10000 m,1768556,1,Torneo de Chad
+Jonathan JONES,carrera 400 m,43455,1,Torneo de Papua New Guinea
+Jonathan JONES,carrera 400 m,47794,1,Torneo de Israel
+Olha LYAKHOVA,carrera 800 m,101940,1,Torneo de Vatican City
+Olha LYAKHOVA,carrera 800 m,111974,1,Torneo de Tunisia
+Murielle AHOURÉ,carrera 100 m,9760,1,Torneo de United States
+Murielle AHOURÉ,carrera 100 m,10736,1,Torneo de Sao Tome and Principe
+Mosinet GEREMEW,carrera 42000 m,7308190,1,Torneo de Mongolia
+Mosinet GEREMEW,carrera 42000 m,8024575,1,Torneo de Uzbekistan
+Samuel TEFERA,carrera 1500 m,208888,1,Torneo de Malta
+Samuel TEFERA,carrera 1500 m,229634,1,Torneo de Austria
+Sydney MCLAUGHLIN,carrera 400 m con vallas,46095,1,Torneo de Jamaica
+Sydney MCLAUGHLIN,carrera 400 m con vallas,50649,1,Torneo de Costa Rica
+Abadi HADIS,carrera 10000 m,1608999,1,Torneo de Belgium
+Abadi HADIS,carrera 10000 m,1767320,1,Torneo de South Sudan
+Christine BOTLOGETSWE,carrera 400 m,43471,1,Torneo de Australia
+Christine BOTLOGETSWE,carrera 400 m,47791,1,Torneo de Cambodia
+Dera DIDA,carrera 10000 m,1609982,1,Torneo de Montenegro
+Dera DIDA,carrera 10000 m,1768566,1,Torneo de Vatican City
+Selemon BAREGA,carrera 10000 m,1608319,1,Torneo de Zambia
+Selemon BAREGA,carrera 10000 m,1768601,1,Torneo de Azerbaijan
+Galefele MOROKO,carrera 400 m,43452,1,Torneo de Czechia
+Galefele MOROKO,carrera 400 m,47776,1,Torneo de Afghanistan
+Winfred Mutile YAVI,carrera 3000 m con vallas,481479,1,Torneo de Nepal
+Winfred Mutile YAVI,carrera 3000 m con vallas,528814,1,Torneo de Comoros
+Eilish MCCOLGAN,carrera 5000 m,772270,1,Torneo de Samoa
+Eilish MCCOLGAN,carrera 5000 m,848915,1,Torneo de Brunei
+Kendell WILLIAMS,carrera 110 m con vallas,12100,1,Torneo de Vietnam
+Kendell WILLIAMS,carrera 110 m con vallas,13304,1,Torneo de Palau
+Wesley VÁZQUEZ,carrera 800 m,101895,1,Torneo de Germany
+Wesley VÁZQUEZ,carrera 800 m,111997,1,Torneo de Poland
+Yomif KEJELCHA,carrera 10000 m,1608123,1,Torneo de Seychelles
+Yomif KEJELCHA,carrera 10000 m,1768131,1,Torneo de United States
+Valary JEMELI,carrera 21000 m,3482183,1,Torneo de Uganda
+Valary JEMELI,carrera 21000 m,3827475,1,Torneo de Belgium
+Nijel AMOS,carrera 800 m,101977,1,Torneo de Canada
+Nijel AMOS,carrera 800 m,112036,1,Torneo de Tajikistan
+Elvira HERMAN,carrera 110 m con vallas,12105,1,Torneo de New Zealand
+Elvira HERMAN,carrera 110 m con vallas,13305,1,Torneo de Niger
+Raevyn ROGERS,carrera 800 m,101893,1,Torneo de Malaysia
+Raevyn ROGERS,carrera 800 m,112038,1,Torneo de Bahamas
+Courtney OKOLO,carrera 400 m,43451,1,Torneo de Iraq
+Courtney OKOLO,carrera 400 m,47791,1,Torneo de Cyprus
+Michael NORMAN,carrera 200 m,19521,1,Torneo de Finland
+Michael NORMAN,carrera 200 m,21448,1,Torneo de Jamaica
+Chrisann GORDON,carrera 400 m,43467,1,Torneo de Italy
+Chrisann GORDON,carrera 400 m,47791,1,Torneo de Wales
+​Demish GAYE,carrera 400 m,43500,1,Torneo de Dominican Republic
+​Demish GAYE,carrera 400 m,47724,1,Torneo de Papua New Guinea
+Marie-Josée TA LOU,carrera 200 m,19501,1,Torneo de Sudan
+Marie-Josée TA LOU,carrera 200 m,21420,1,Torneo de Mauritius
+Fernando CARRO,carrera 3000 m con vallas,481126,1,Torneo de French Guiana
+Fernando CARRO,carrera 3000 m con vallas,528963,1,Torneo de Maldives
+Abdelaati IGUIDER,carrera 1500 m,208795,1,Torneo de Papua New Guinea
+Abdelaati IGUIDER,carrera 1500 m,229640,1,Torneo de Wales
+Nadine VISSER,carrera 110 m con vallas,12100,1,Torneo de Saudi Arabia
+Nadine VISSER,carrera 110 m con vallas,13307,1,Torneo de Venezuela
+Ronald LEVY,carrera 110 m con vallas,12104,1,Torneo de Tunisia
+Ronald LEVY,carrera 110 m con vallas,13305,1,Torneo de Oman
+Freddie CRITTENDEN,carrera 110 m con vallas,12105,1,Torneo de Togo
+Freddie CRITTENDEN,carrera 110 m con vallas,13287,1,Torneo de Trinidad and Tobago
+Abubaker Haydar ABDALLA,carrera 800 m,101895,1,Torneo de Yemen
+Abubaker Haydar ABDALLA,carrera 800 m,112075,1,Torneo de Colombia
+Nikki HILTZ,carrera 1500 m,208920,1,Torneo de Virgin Islands (British)
+Nikki HILTZ,carrera 1500 m,229633,1,Torneo de Comoros
+Chanel BRISSETT,carrera 110 m con vallas,12107,1,Torneo de Virgin Islands (British)
+Chanel BRISSETT,carrera 110 m con vallas,13303,1,Torneo de Samoa
+Colleen QUIGLEY,carrera 3000 m con vallas,481375,1,Torneo de Madagascar
+Colleen QUIGLEY,carrera 3000 m con vallas,529033,1,Torneo de Botswana
+Caroline Chepkoech KIPKIRUI,carrera 5000 m,772171,1,Torneo de Myanmar
+Caroline Chepkoech KIPKIRUI,carrera 5000 m,849044,1,Torneo de Pakistan
+Degitu AZIMERAW,carrera 21000 m,3482276,1,Torneo de Belarus
+Degitu AZIMERAW,carrera 21000 m,3825488,1,Torneo de Malawi
+Laura WEIGHTMAN,carrera 5000 m,772743,1,Torneo de Grenada
+Laura WEIGHTMAN,carrera 5000 m,848834,1,Torneo de Mexico
+Nathan STROTHER,carrera 400 m,43463,1,Torneo de Burkina Faso
+Nathan STROTHER,carrera 400 m,47750,1,Torneo de Equatorial Guinea
+Roberto SKYERS,carrera 100 m,9766,1,Torneo de Cyprus
+Roberto SKYERS,carrera 100 m,10726,1,Torneo de Morocco
+Andamlak BELIHU,carrera 10000 m,1608408,1,Torneo de Mexico
+Andamlak BELIHU,carrera 10000 m,1767554,1,Torneo de New Zealand
+Wenjun XIE,carrera 110 m con vallas,12098,1,Torneo de Canada
+Wenjun XIE,carrera 110 m con vallas,13308,1,Torneo de Belarus
+Brianna MCNEAL,carrera 110 m con vallas,12109,1,Torneo de Iraq
+Brianna MCNEAL,carrera 110 m con vallas,13293,1,Torneo de Afghanistan
+Valary JEMELI,carrera 42000 m,7303454,1,Torneo de Paraguay
+Valary JEMELI,carrera 42000 m,8026066,1,Torneo de Cyprus
+Bethwell BIRGEN,carrera 1500 m,208797,1,Torneo de United States
+Bethwell BIRGEN,carrera 1500 m,229496,1,Torneo de Argentina
+Matthew CENTROWITZ,carrera 5000 m,772861,1,Torneo de Nicaragua
+Matthew CENTROWITZ,carrera 5000 m,849217,1,Torneo de Grenada
+Solomon BERIHU,carrera 5000 m,772147,1,Torneo de Saint Vincent and the Grenadines
+Solomon BERIHU,carrera 5000 m,848824,1,Torneo de Azerbaijan
+Zhenye XIE,carrera 200 m,19502,1,Torneo de Kyrgyzstan
+Zhenye XIE,carrera 200 m,21430,1,Torneo de Ecuador
+Karissa SCHWEIZER,carrera 5000 m,772237,1,Torneo de Nicaragua
+Karissa SCHWEIZER,carrera 5000 m,848970,1,Torneo de Ireland
+Quincy HALL,carrera 400 m con vallas,46127,1,Torneo de Maldives
+Quincy HALL,carrera 400 m con vallas,50664,1,Torneo de Zimbabwe
+Adam GEMILI,carrera 200 m,19509,1,Torneo de Monaco
+Adam GEMILI,carrera 200 m,21406,1,Torneo de Congo Republic of the
+Shunya TAKAYAMA,carrera 110 m con vallas,12102,1,Torneo de Laos
+Shunya TAKAYAMA,carrera 110 m con vallas,13308,1,Torneo de Bosnia and Herzegovina
+Girmawit GEBRZIHAIR,carrera 10000 m,1608151,1,Torneo de Paraguay
+Girmawit GEBRZIHAIR,carrera 10000 m,1767096,1,Torneo de Serbia
+Tonea MARSHALL,carrera 110 m con vallas,12100,1,Torneo de Papua New Guinea
+Tonea MARSHALL,carrera 110 m con vallas,13286,1,Torneo de Georgia
+Kyron MCMASTER,carrera 400 m con vallas,46094,1,Torneo de Timor-Leste
+Kyron MCMASTER,carrera 400 m con vallas,50689,1,Torneo de Bahrain
+Cambrea STURGIS,carrera 200 m,19506,1,Torneo de Algeria
+Cambrea STURGIS,carrera 200 m,21436,1,Torneo de Albania
+Kenenisa BEKELE,carrera 42000 m,7309082,1,Torneo de Mauritania
+Kenenisa BEKELE,carrera 42000 m,8026649,1,Torneo de Uzbekistan
+Ruti AGA,carrera 42000 m,7301667,1,Torneo de Turkey
+Ruti AGA,carrera 42000 m,8030158,1,Torneo de Japan
+Sisay LEMMA,carrera 42000 m,7309275,1,Torneo de Peru
+Sisay LEMMA,carrera 42000 m,8023521,1,Torneo de Kiribati
+Letesenbet GIDEY,carrera 10000 m,1608326,1,Torneo de Liberia
+Letesenbet GIDEY,carrera 10000 m,1768785,1,Torneo de Lebanon
+Andre DE GRASSE,carrera 200 m,19508,1,Torneo de Kenya
+Andre DE GRASSE,carrera 200 m,21450,1,Torneo de Brunei
+Anglerne ANNELUS,carrera 200 m,19506,1,Torneo de Nepal
+Anglerne ANNELUS,carrera 200 m,21433,1,Torneo de Dominican Republic
+Jackline WAMBUI,carrera 800 m,101926,1,Torneo de Bosnia and Herzegovina
+Jackline WAMBUI,carrera 800 m,112071,1,Torneo de Tonga
+Kate GRACE,carrera 800 m,101901,1,Torneo de Netherlands
+Kate GRACE,carrera 800 m,112079,1,Torneo de Virgin Islands (British)
+Taoufik MAKHLOUFI,carrera 1500 m,208784,1,Torneo de Dominican Republic
+Taoufik MAKHLOUFI,carrera 1500 m,229586,1,Torneo de Guatemala
+Zurian HECHAVARRÍA,carrera 400 m con vallas,46103,1,Torneo de Dominica
+Zurian HECHAVARRÍA,carrera 400 m con vallas,50685,1,Torneo de Jamaica
+Timothy CHERUIYOT,carrera 1500 m,208800,1,Torneo de Benin
+Timothy CHERUIYOT,carrera 1500 m,229619,1,Torneo de Denmark
+Mujinga KAMBUNDJI,carrera 100 m,9764,1,Torneo de Northern Ireland
+Mujinga KAMBUNDJI,carrera 100 m,10732,1,Torneo de Iraq
+Jakob INGEBRIGTSEN,carrera 1500 m,208949,1,Torneo de Jamaica
+Jakob INGEBRIGTSEN,carrera 1500 m,229578,1,Torneo de Finland
+Birhanu BALEW,carrera 5000 m,772110,1,Torneo de Ecuador
+Birhanu BALEW,carrera 5000 m,849170,1,Torneo de Fiji
+Edward CHESEREK,carrera 5000 m,772938,1,Torneo de Vietnam
+Edward CHESEREK,carrera 5000 m,849067,1,Torneo de Benin
+Ronald KWEMOI,carrera 1500 m,209025,1,Torneo de Denmark
+Ronald KWEMOI,carrera 1500 m,229584,1,Torneo de Qatar
+Solomon BERIHU,carrera 10000 m,1608510,1,Torneo de Chile
+Solomon BERIHU,carrera 10000 m,1768122,1,Torneo de South Korea
+Jemal Yimer MEKONNEN,carrera 10000 m,1610950,1,Torneo de Australia
+Jemal Yimer MEKONNEN,carrera 10000 m,1768818,1,Torneo de El Salvador
+Mercy CHEPKURUI,carrera 3000 m con vallas,481081,1,Torneo de Mongolia
+Mercy CHEPKURUI,carrera 3000 m con vallas,528670,1,Torneo de Japan
+Cornelius TUWEI,carrera 800 m,102008,1,Torneo de San Marino
+Cornelius TUWEI,carrera 800 m,112055,1,Torneo de Rwanda
+Kaan Kigen ÖZBILEN,carrera 42000 m,7303292,1,Torneo de San Marino
+Kaan Kigen ÖZBILEN,carrera 42000 m,8028537,1,Torneo de North Korea
+Hawi FEYSA,carrera 5000 m,772169,1,Torneo de Germany
+Hawi FEYSA,carrera 5000 m,848869,1,Torneo de Cuba
+Stanley Kipkoech KEBENEI,carrera 3000 m con vallas,481207,1,Torneo de Ghana
+Stanley Kipkoech KEBENEI,carrera 3000 m con vallas,529060,1,Torneo de Vatican City
+Yasmani COPELLO,carrera 400 m con vallas,46120,1,Torneo de United Arab Emirates
+Yasmani COPELLO,carrera 400 m con vallas,50698,1,Torneo de Georgia
+Habitam ALEMU,carrera 800 m,101994,1,Torneo de Haiti
+Habitam ALEMU,carrera 800 m,112017,1,Torneo de Spain
+Divine ODUDURU,carrera 200 m,19503,1,Torneo de Tonga
+Divine ODUDURU,carrera 200 m,21449,1,Torneo de El Salvador
+Norah JERUTO,carrera 3000 m con vallas,481044,1,Torneo de Honduras
+Norah JERUTO,carrera 3000 m con vallas,529121,1,Torneo de Costa Rica
+Machel CEDENIO,carrera 400 m,43473,1,Torneo de Comoros
+Machel CEDENIO,carrera 400 m,47774,1,Torneo de Chad
+Lonah Chemtai SALPETER,carrera 21000 m,3481643,1,Torneo de Russia
+Lonah Chemtai SALPETER,carrera 21000 m,3826972,1,Torneo de Moldova
+Zharnel HUGHES,carrera 100 m,9766,1,Torneo de Sri Lanka
+Zharnel HUGHES,carrera 100 m,10734,1,Torneo de Morocco
+Anastasia LE-ROY,carrera 400 m,43462,1,Torneo de Monaco
+Anastasia LE-ROY,carrera 400 m,47792,1,Torneo de Czechia
+Christian COLEMAN,carrera 200 m,19505,1,Torneo de South Africa
+Christian COLEMAN,carrera 200 m,21449,1,Torneo de North Korea
+Christina CLEMONS,carrera 110 m con vallas,12103,1,Torneo de France
+Christina CLEMONS,carrera 110 m con vallas,13302,1,Torneo de Uganda
+Abadi HADIS,carrera 21000 m,3481565,1,Torneo de Kazakhstan
+Abadi HADIS,carrera 21000 m,3828537,1,Torneo de Moldova
+Mario BURKE,carrera 200 m,19500,1,Torneo de South Sudan
+Mario BURKE,carrera 200 m,21448,1,Torneo de Yemen
+Michael NORMAN,carrera 400 m,43455,1,Torneo de India
+Michael NORMAN,carrera 400 m,47793,1,Torneo de Jamaica
+Abdul Hakim SANI BROWN,carrera 200 m,19515,1,Torneo de United Arab Emirates
+Abdul Hakim SANI BROWN,carrera 200 m,21450,1,Torneo de Sweden
+Albert CHEMUTAI,carrera 3000 m con vallas,481195,1,Torneo de Armenia
+Albert CHEMUTAI,carrera 3000 m con vallas,529086,1,Torneo de Ukraine
+Susan KRUMINS,carrera 10000 m,1609056,1,Torneo de Monaco
+Susan KRUMINS,carrera 10000 m,1768428,1,Torneo de Uzbekistan
+Marcin LEWANDOWSKI,carrera 1500 m,208843,1,Torneo de Norway
+Marcin LEWANDOWSKI,carrera 1500 m,229592,1,Torneo de Brazil
+Vivian J. CHERUIYOT,carrera 42000 m,7308210,1,Torneo de Equatorial Guinea
+Vivian J. CHERUIYOT,carrera 42000 m,8028981,1,Torneo de Northern Ireland
+Dawit SEYAUM,carrera 1500 m,208772,1,Torneo de Oman
+Dawit SEYAUM,carrera 1500 m,229624,1,Torneo de Equatorial Guinea
+Celliphine Chepteek CHESPOL,carrera 3000 m con vallas,481266,1,Torneo de Denmark
+Celliphine Chepteek CHESPOL,carrera 3000 m con vallas,529006,1,Torneo de Ghana
+Aaron BROWN,carrera 100 m,9764,1,Torneo de Jordan
+Aaron BROWN,carrera 100 m,10726,1,Torneo de Micronesia
+Kahmari MONTGOMERY,carrera 400 m,43461,1,Torneo de Dominica
+Kahmari MONTGOMERY,carrera 400 m,47791,1,Torneo de Laos
+Tobi AMUSAN,carrera 110 m con vallas,12099,1,Torneo de Italy
+Tobi AMUSAN,carrera 110 m con vallas,13305,1,Torneo de Wales
+Ajee WILSON,carrera 800 m,101983,1,Torneo de Angola
+Ajee WILSON,carrera 800 m,112078,1,Torneo de Japan
+Ashley SPENCER,carrera 400 m con vallas,46092,1,Torneo de France
+Ashley SPENCER,carrera 400 m con vallas,50674,1,Torneo de Iraq
+Karoline Bjerkeli GRØVDAL,carrera 3000 m con vallas,481175,1,Torneo de Ivory Coast
+Karoline Bjerkeli GRØVDAL,carrera 3000 m con vallas,529133,1,Torneo de Afghanistan
+Rabii DOUKKANA,carrera 1500 m,208801,1,Torneo de Vietnam
+Rabii DOUKKANA,carrera 1500 m,229628,1,Torneo de Kiribati
+Clayton MURPHY,carrera 800 m,101925,1,Torneo de Monaco
+Clayton MURPHY,carrera 800 m,112059,1,Torneo de Nicaragua
+Gete ALEMAYEHU,carrera 10000 m,1608532,1,Torneo de Bahamas
+Gete ALEMAYEHU,carrera 10000 m,1768260,1,Torneo de Gabon
+Sifan HASSAN,carrera 21000 m,3482679,1,Torneo de Gambia
+Sifan HASSAN,carrera 21000 m,3826790,1,Torneo de Saint Lucia
+Lauren WELLS,carrera 400 m con vallas,46100,1,Torneo de Bolivia
+Lauren WELLS,carrera 400 m con vallas,50698,1,Torneo de Comoros
+Getnet WALE,carrera 3000 m con vallas,481590,1,Torneo de Greece
+Getnet WALE,carrera 3000 m con vallas,528948,1,Torneo de Slovenia
+Tsehay GEMECHU,carrera 21000 m,3481952,1,Torneo de Cambodia
+Tsehay GEMECHU,carrera 21000 m,3828843,1,Torneo de Monaco
+Pascal MARTINOT-LAGARDE,carrera 110 m con vallas,12119,1,Torneo de Netherlands
+Pascal MARTINOT-LAGARDE,carrera 110 m con vallas,13308,1,Torneo de South Africa
+Wyclife KINYAMAL,carrera 800 m,101920,1,Torneo de Vanuatu
+Wyclife KINYAMAL,carrera 800 m,111991,1,Torneo de Cuba
+Andrew RILEY,carrera 110 m con vallas,12100,1,Torneo de Dominica
+Andrew RILEY,carrera 110 m con vallas,13304,1,Torneo de Ecuador
+Beth DOBBIN,carrera 200 m,19502,1,Torneo de Saint Kitts and Nevis
+Beth DOBBIN,carrera 200 m,21429,1,Torneo de Ethiopia
+Stanley Waithaka MBURU,carrera 5000 m,772521,1,Torneo de Iceland
+Stanley Waithaka MBURU,carrera 5000 m,849028,1,Torneo de Colombia
+Shaunae MILLER-UIBO,carrera 200 m,19501,1,Torneo de Denmark
+Shaunae MILLER-UIBO,carrera 200 m,21423,1,Torneo de Rwanda
+Guye Idemo ADOLA,carrera 42000 m,7306648,1,Torneo de Ecuador
+Guye Idemo ADOLA,carrera 42000 m,8027315,1,Torneo de Iceland
+Zeineba YIMER,carrera 10000 m,1610215,1,Torneo de Australia
+Zeineba YIMER,carrera 10000 m,1768287,1,Torneo de Sri Lanka
+Mogos TUEMAY,carrera 10000 m,1611081,1,Torneo de Mexico
+Mogos TUEMAY,carrera 10000 m,1768816,1,Torneo de Kiribati
+Brittany BROWN,carrera 200 m,19508,1,Torneo de Tonga
+Brittany BROWN,carrera 200 m,21446,1,Torneo de Costa Rica
+Orlando BENNETT,carrera 110 m con vallas,12099,1,Torneo de Micronesia
+Orlando BENNETT,carrera 110 m con vallas,13307,1,Torneo de Tunisia
+Marco AROP,carrera 800 m,101895,1,Torneo de Central African Republic
+Marco AROP,carrera 800 m,112075,1,Torneo de Zimbabwe
+Worknesh DEGEFA,carrera 42000 m,7313334,1,Torneo de Mauritania
+Worknesh DEGEFA,carrera 42000 m,8030444,1,Torneo de Laos
+Anna Emilie MØLLER,carrera 3000 m con vallas,481045,1,Torneo de Barbados
+Anna Emilie MØLLER,carrera 3000 m con vallas,528968,1,Torneo de Congo Republic of the
+Caster SEMENYA,carrera 800 m,102076,1,Torneo de Iran
+Caster SEMENYA,carrera 800 m,112072,1,Torneo de Costa Rica
+Aaron BROWN,carrera 200 m,19503,1,Torneo de Greece
+Aaron BROWN,carrera 200 m,21448,1,Torneo de Morocco
+Abebe Negewo DEGEFA,carrera 42000 m,7311718,1,Torneo de Congo Republic of the
+Abebe Negewo DEGEFA,carrera 42000 m,8030767,1,Torneo de Andorra
+Manqi GE,carrera 100 m,9761,1,Torneo de Guinea-Bissau
+Manqi GE,carrera 100 m,10736,1,Torneo de Guyana
+Tyquendo TRACEY,carrera 100 m,9770,1,Torneo de Denmark
+Tyquendo TRACEY,carrera 100 m,10733,1,Torneo de Eritrea
+Margaret Chelimo KIPKEMBOI,carrera 5000 m,772274,1,Torneo de Ukraine
+Margaret Chelimo KIPKEMBOI,carrera 5000 m,849119,1,Torneo de Algeria
+Letesenbet GIDEY,carrera 5000 m,772303,1,Torneo de Algeria
+Letesenbet GIDEY,carrera 5000 m,849287,1,Torneo de Australia
+Christian COLEMAN,carrera 100 m,9762,1,Torneo de Philippines
+Christian COLEMAN,carrera 100 m,10726,1,Torneo de Latvia
+Patryk DOBEK,carrera 400 m con vallas,46106,1,Torneo de Kazakhstan
+Patryk DOBEK,carrera 400 m con vallas,50679,1,Torneo de Bahrain
+Amalie IUEL,carrera 400 m con vallas,46104,1,Torneo de Serbia
+Amalie IUEL,carrera 400 m con vallas,50693,1,Torneo de Germany
+Alex WILSON,carrera 200 m,19515,1,Torneo de Venezuela
+Alex WILSON,carrera 200 m,21422,1,Torneo de Jamaica
+Kiara GRANT,carrera 100 m,9760,1,Torneo de Vatican City
+Kiara GRANT,carrera 100 m,10726,1,Torneo de North Korea
+Brigid KOSGEI,carrera 21000 m,3482843,1,Torneo de Vatican City
+Brigid KOSGEI,carrera 21000 m,3828074,1,Torneo de Northern Ireland
+Shelly-Ann FRASER-PRYCE,carrera 100 m,9764,1,Torneo de Sri Lanka
+Shelly-Ann FRASER-PRYCE,carrera 100 m,10735,1,Torneo de Panama
+Hellen OBIRI,carrera 10000 m,1608470,1,Torneo de Eritrea
+Hellen OBIRI,carrera 10000 m,1767213,1,Torneo de Turkey
+Akani SIMBINE,carrera 100 m,9765,1,Torneo de Palau
+Akani SIMBINE,carrera 100 m,10736,1,Torneo de Mali
+Briana WILLIAMS,carrera 100 m,9762,1,Torneo de Qatar
+Briana WILLIAMS,carrera 100 m,10736,1,Torneo de United Arab Emirates
+Yohan BLAKE,carrera 100 m,9761,1,Torneo de United States
+Yohan BLAKE,carrera 100 m,10733,1,Torneo de Virgin Islands (British)
+Emma COBURN,carrera 3000 m con vallas,481064,1,Torneo de Saint Lucia
+Emma COBURN,carrera 3000 m con vallas,528477,1,Torneo de Vietnam
+Leonard LANGAT,carrera 21000 m,3481507,1,Torneo de Greece
+Leonard LANGAT,carrera 21000 m,3827462,1,Torneo de Zimbabwe
+Bedan KAROKI,carrera 21000 m,3483548,1,Torneo de Suriname
+Bedan KAROKI,carrera 21000 m,3827918,1,Torneo de Rwanda
+Peruth CHEMUTAI,carrera 3000 m con vallas,481272,1,Torneo de Tunisia
+Peruth CHEMUTAI,carrera 3000 m con vallas,529080,1,Torneo de Sweden
+Jonathan KITILIT,carrera 800 m,101929,1,Torneo de Lesotho
+Jonathan KITILIT,carrera 800 m,112052,1,Torneo de Cyprus
+Shelly-Ann FRASER-PRYCE,carrera 200 m,19509,1,Torneo de Kuwait
+Shelly-Ann FRASER-PRYCE,carrera 200 m,21440,1,Torneo de Italy
+Elaine THOMPSON,carrera 100 m,9761,1,Torneo de Puerto Rico
+Elaine THOMPSON,carrera 100 m,10732,1,Torneo de Monaco
+Sergey SHUBENKOV,carrera 110 m con vallas,12113,1,Torneo de Cuba
+Sergey SHUBENKOV,carrera 110 m con vallas,13308,1,Torneo de Mauritius
+Evaline CHIRCHIR,carrera 21000 m,3481005,1,Torneo de Luxembourg
+Evaline CHIRCHIR,carrera 21000 m,3823854,1,Torneo de Serbia
+Fikadu HAFTU,carrera 21000 m,3481489,1,Torneo de Burkina Faso
+Fikadu HAFTU,carrera 21000 m,3828843,1,Torneo de Ecuador
+Ronald MUSAGALA,carrera 1500 m,208813,1,Torneo de Sierra Leone
+Ronald MUSAGALA,carrera 1500 m,229579,1,Torneo de Suriname
+Ayanleh SOULEIMAN,carrera 1500 m,208842,1,Torneo de Mongolia
+Ayanleh SOULEIMAN,carrera 1500 m,229580,1,Torneo de Armenia
+Janeek BROWN,carrera 110 m con vallas,12102,1,Torneo de Indonesia
+Janeek BROWN,carrera 110 m con vallas,13308,1,Torneo de Panama
+Abderrahman SAMBA,carrera 400 m con vallas,46102,1,Torneo de Tuvalu
+Abderrahman SAMBA,carrera 400 m con vallas,50676,1,Torneo de Antigua and Barbuda
+Dezerea BRYANT,carrera 200 m,19532,1,Torneo de Cameroon
+Dezerea BRYANT,carrera 200 m,21426,1,Torneo de Congo Republic of the
+Dharun AYYASAMY,carrera 400 m con vallas,46102,1,Torneo de Malawi
+Dharun AYYASAMY,carrera 400 m con vallas,50696,1,Torneo de South Africa
+Ramil GULIYEV,carrera 200 m,19518,1,Torneo de Lithuania
+Ramil GULIYEV,carrera 200 m,21412,1,Torneo de Latvia
+Shakima WIMBLEY,carrera 400 m,43458,1,Torneo de Gabon
+Shakima WIMBLEY,carrera 400 m,47781,1,Torneo de Chad
+Gesa Felicitas KRAUSE,carrera 3000 m con vallas,481492,1,Torneo de Mauritius
+Gesa Felicitas KRAUSE,carrera 3000 m con vallas,528951,1,Torneo de Indonesia
+Anthony José ZAMBRANO,carrera 400 m,43573,1,Torneo de Brunei
+Anthony José ZAMBRANO,carrera 400 m,47777,1,Torneo de Cuba
+Julien WANDERS,carrera 21000 m,3483721,1,Torneo de Mauritania
+Julien WANDERS,carrera 21000 m,3828808,1,Torneo de Denmark
+Halimah NAKAAYI,carrera 800 m,101916,1,Torneo de Cambodia
+Halimah NAKAAYI,carrera 800 m,112041,1,Torneo de Trinidad and Tobago
+Amel TUKA,carrera 800 m,101946,1,Torneo de Guinea
+Amel TUKA,carrera 800 m,112071,1,Torneo de Spain
+Maruša MIŠMAŠ,carrera 3000 m con vallas,481151,1,Torneo de Libya
+Maruša MIŠMAŠ,carrera 3000 m con vallas,529081,1,Torneo de Laos
+William KINCAID,carrera 5000 m,772143,1,Torneo de Guyana
+William KINCAID,carrera 5000 m,849211,1,Torneo de Lebanon
+Zeineba YIMER,carrera 42000 m,7301146,1,Torneo de Ecuador
+Zeineba YIMER,carrera 42000 m,8030030,1,Torneo de Azerbaijan
+Senbere TEFERI,carrera 21000 m,3481418,1,Torneo de Gambia
+Senbere TEFERI,carrera 21000 m,3828714,1,Torneo de Vatican City
+Ruth CHEPNGETICH,carrera 21000 m,3482162,1,Torneo de Brunei
+Ruth CHEPNGETICH,carrera 21000 m,3828690,1,Torneo de Uzbekistan
+Dina ASHER-SMITH,carrera 100 m,9766,1,Torneo de Congo Democratic Republic of the
+Dina ASHER-SMITH,carrera 100 m,10728,1,Torneo de Finland
+Dibabe KUMA,carrera 21000 m,3481578,1,Torneo de Pakistan
+Dibabe KUMA,carrera 21000 m,3825513,1,Torneo de Moldova
+Natalya PRYSHCHEPA,carrera 800 m,101893,1,Torneo de Bhutan
+Natalya PRYSHCHEPA,carrera 800 m,111904,1,Torneo de Tuvalu
+Kibiwott KANDIE,carrera 21000 m,3485317,1,Torneo de Papua New Guinea
+Kibiwott KANDIE,carrera 21000 m,3828626,1,Torneo de Rwanda
+Devon ALLEN,carrera 110 m con vallas,12105,1,Torneo de Micronesia
+Devon ALLEN,carrera 110 m con vallas,13304,1,Torneo de Timor-Leste
+Shannon OSIKA,carrera 1500 m,208852,1,Torneo de Turkey
+Shannon OSIKA,carrera 1500 m,229623,1,Torneo de Gabon
+Justyna ŚWIĘTY-ERSETIC,carrera 400 m,43454,1,Torneo de Argentina
+Justyna ŚWIĘTY-ERSETIC,carrera 400 m,47768,1,Torneo de South Sudan
+Chloe ABBOTT,carrera 400 m,43484,1,Torneo de Libya
+Chloe ABBOTT,carrera 400 m,47790,1,Torneo de Colombia
+Zeineba YIMER,carrera 21000 m,3481062,1,Torneo de Indonesia
+Zeineba YIMER,carrera 21000 m,3828790,1,Torneo de Samoa
+Sara Slott PETERSEN,carrera 400 m con vallas,46122,1,Torneo de United States
+Sara Slott PETERSEN,carrera 400 m con vallas,50701,1,Torneo de Kiribati
+Berehanu TSEGU,carrera 21000 m,3481292,1,Torneo de Sri Lanka
+Berehanu TSEGU,carrera 21000 m,3828021,1,Torneo de Finland
+Tsehay GEMECHU,carrera 5000 m,772342,1,Torneo de Malawi
+Tsehay GEMECHU,carrera 5000 m,849076,1,Torneo de Lebanon
+Leonard Kipkemoi BETT,carrera 3000 m con vallas,481113,1,Torneo de Costa Rica
+Leonard Kipkemoi BETT,carrera 3000 m con vallas,528870,1,Torneo de Namibia
+Stephenie Ann MCPHERSON,carrera 400 m,43470,1,Torneo de Moldova
+Stephenie Ann MCPHERSON,carrera 400 m,47765,1,Torneo de Somalia
+Andre DE GRASSE,carrera 100 m,9767,1,Torneo de Ecuador
+Andre DE GRASSE,carrera 100 m,10731,1,Torneo de United States
+Jacob KROP,carrera 5000 m,772722,1,Torneo de Guyana
+Jacob KROP,carrera 5000 m,848625,1,Torneo de Montenegro
+Miguel FRANCIS,carrera 200 m,19507,1,Torneo de Tonga
+Miguel FRANCIS,carrera 200 m,21438,1,Torneo de Mexico
+Alison DOS SANTOS,carrera 400 m con vallas,46095,1,Torneo de Mexico
+Alison DOS SANTOS,carrera 400 m con vallas,50689,1,Torneo de Wales
+Yasemin CAN,carrera 10000 m,1608516,1,Torneo de Uruguay
+Yasemin CAN,carrera 10000 m,1768095,1,Torneo de Mali
+Sifan HASSAN,carrera 5000 m,772098,1,Torneo de Australia
+Sifan HASSAN,carrera 5000 m,849167,1,Torneo de Panama
+Emily Cherotich TUEI,carrera 800 m,101999,1,Torneo de Myanmar
+Emily Cherotich TUEI,carrera 800 m,112070,1,Torneo de Bahamas
+Stewart MCSWEYN,carrera 1500 m,208788,1,Torneo de Maldives
+Stewart MCSWEYN,carrera 1500 m,229585,1,Torneo de San Marino
+Gudaf TSEGAY,carrera 1500 m,208792,1,Torneo de Morocco
+Gudaf TSEGAY,carrera 1500 m,229566,1,Torneo de Israel
+Morris Munene GACHAGA,carrera 21000 m,3481732,1,Torneo de Japan
+Morris Munene GACHAGA,carrera 21000 m,3827379,1,Torneo de Brazil
+Shaunae MILLER-UIBO,carrera 400 m,43463,1,Torneo de Ghana
+Shaunae MILLER-UIBO,carrera 400 m,47737,1,Torneo de Guinea-Bissau
+Joseph Paul AMOAH,carrera 200 m,19519,1,Torneo de China
+Joseph Paul AMOAH,carrera 200 m,21441,1,Torneo de Yemen
+Timothy CHERUIYOT,carrera 800 m,101989,1,Torneo de Hungary
+Timothy CHERUIYOT,carrera 800 m,111995,1,Torneo de Slovenia
+Luiza GEGA,carrera 3000 m con vallas,481224,1,Torneo de Sierra Leone
+Luiza GEGA,carrera 3000 m con vallas,528861,1,Torneo de South Sudan
+Carina HORN,carrera 100 m,9764,1,Torneo de Canada
+Carina HORN,carrera 100 m,10733,1,Torneo de Mauritius
+Andrew HUDSON,carrera 200 m,19506,1,Torneo de Saudi Arabia
+Andrew HUDSON,carrera 200 m,21433,1,Torneo de Liechtenstein
+Agnes Jebet TIROP,carrera 5000 m,772162,1,Torneo de Maldives
+Agnes Jebet TIROP,carrera 5000 m,849293,1,Torneo de Mongolia
+Sharrika BARNETT,carrera 400 m,43452,1,Torneo de Brazil
+Sharrika BARNETT,carrera 400 m,47776,1,Torneo de Laos
+Rababe ARAFI,carrera 1500 m,208782,1,Torneo de San Marino
+Rababe ARAFI,carrera 1500 m,229647,1,Torneo de Bhutan
+Abraham KIBIWOT,carrera 3000 m con vallas,481060,1,Torneo de Marshall Islands
+Abraham KIBIWOT,carrera 3000 m con vallas,528923,1,Torneo de Paraguay
+Justin GATLIN,carrera 100 m,9766,1,Torneo de Liberia
+Justin GATLIN,carrera 100 m,10736,1,Torneo de Gabon
+Genzebe DIBABA,carrera 1500 m,208883,1,Torneo de Antigua and Barbuda
+Genzebe DIBABA,carrera 1500 m,229523,1,Torneo de Zimbabwe
+Gabriela DEBUES-STAFFORD,carrera 5000 m,773042,1,Torneo de Denmark
+Gabriela DEBUES-STAFFORD,carrera 5000 m,848705,1,Torneo de Taiwan
+Mohammed AHMED,carrera 5000 m,772524,1,Torneo de Kosovo
+Mohammed AHMED,carrera 5000 m,847578,1,Torneo de Fiji
+Lamecha GIRMA,carrera 3000 m con vallas,481078,1,Torneo de Mali
+Lamecha GIRMA,carrera 3000 m con vallas,528818,1,Torneo de Morocco
+Jakob INGEBRIGTSEN,carrera 5000 m,772184,1,Torneo de Argentina
+Jakob INGEBRIGTSEN,carrera 5000 m,849290,1,Torneo de Colombia
+Kendra HARRISON,carrera 110 m con vallas,12100,1,Torneo de Eritrea
+Kendra HARRISON,carrera 110 m con vallas,13308,1,Torneo de New Zealand
+Lopez LOMONG,carrera 10000 m,1608036,1,Torneo de Bhutan
+Lopez LOMONG,carrera 10000 m,1768421,1,Torneo de Maldives
+Rai BENJAMIN,carrera 400 m con vallas,46107,1,Torneo de Estonia
+Rai BENJAMIN,carrera 400 m con vallas,50610,1,Torneo de United States
+Roza DEREJE,carrera 42000 m,7304491,1,Torneo de Azerbaijan
+Roza DEREJE,carrera 42000 m,8029156,1,Torneo de Gambia
+Eliud KIPCHOGE,carrera 42000 m,7306906,1,Torneo de Albania
+Eliud KIPCHOGE,carrera 42000 m,8027660,1,Torneo de Senegal
+ShaCarri RICHARDSON,carrera 200 m,19501,1,Torneo de Tonga
+ShaCarri RICHARDSON,carrera 200 m,21423,1,Torneo de Austria
+Reuben Kiprop KIPYEGO,carrera 42000 m,7302147,1,Torneo de Tanzania
+Reuben Kiprop KIPYEGO,carrera 42000 m,8030629,1,Torneo de Cambodia
+Rosemary Monica WANJIRU,carrera 10000 m,1608863,1,Torneo de Philippines
+Rosemary Monica WANJIRU,carrera 10000 m,1768687,1,Torneo de Thailand
+Marcin LEWANDOWSKI,carrera 800 m,101921,1,Torneo de Zambia
+Marcin LEWANDOWSKI,carrera 800 m,112033,1,Torneo de Bahamas
+Daniel ROBERTS,carrera 110 m con vallas,12105,1,Torneo de Georgia
+Daniel ROBERTS,carrera 110 m con vallas,13283,1,Torneo de Malta
+Marie-Josée TA LOU,carrera 100 m,9760,1,Torneo de Latvia
+Marie-Josée TA LOU,carrera 100 m,10732,1,Torneo de Mexico
+Evans CHEBET,carrera 42000 m,7313756,1,Torneo de Luxembourg
+Evans CHEBET,carrera 42000 m,8024020,1,Torneo de Singapore
+Shelby HOULIHAN,carrera 1500 m,208773,1,Torneo de Madagascar
+Shelby HOULIHAN,carrera 1500 m,229598,1,Torneo de Uganda
+Salwa Eid NASER,carrera 200 m,19504,1,Torneo de Luxembourg
+Salwa Eid NASER,carrera 200 m,21443,1,Torneo de Malawi
+Agnes Jebet TIROP,carrera 10000 m,1608740,1,Torneo de Russia
+Agnes Jebet TIROP,carrera 10000 m,1768146,1,Torneo de Iran
+Rodgers KWEMOI,carrera 10000 m,1608075,1,Torneo de Ecuador
+Rodgers KWEMOI,carrera 10000 m,1768720,1,Torneo de Estonia
+Sifan HASSAN,carrera 10000 m,1608968,1,Torneo de Fiji
+Sifan HASSAN,carrera 10000 m,1766874,1,Torneo de Syria
+Lilian Kasait RENGERUK,carrera 5000 m,773421,1,Torneo de Maldives
+Lilian Kasait RENGERUK,carrera 5000 m,849044,1,Torneo de Timor-Leste
+Teahna DANIELS,carrera 100 m,9793,1,Torneo de Syria
+Teahna DANIELS,carrera 100 m,10722,1,Torneo de Sri Lanka
+Michael SARUNI,carrera 800 m,101921,1,Torneo de Somalia
+Michael SARUNI,carrera 800 m,111973,1,Torneo de Namibia
+Kayla WHITE,carrera 200 m,19500,1,Torneo de Jamaica
+Kayla WHITE,carrera 200 m,21444,1,Torneo de Russia
+Mare DIBABA,carrera 42000 m,7302469,1,Torneo de Mozambique
+Mare DIBABA,carrera 42000 m,8025541,1,Torneo de Grenada
+Azmera GEBRU,carrera 42000 m,7303562,1,Torneo de Russia
+Azmera GEBRU,carrera 42000 m,8030363,1,Torneo de Uganda
+Beatrice CHEBET,carrera 5000 m,772188,1,Torneo de Angola
+Beatrice CHEBET,carrera 5000 m,849057,1,Torneo de South Korea
+Zita KÁCSER,carrera 3000 m con vallas,481149,1,Torneo de Slovakia
+Zita KÁCSER,carrera 3000 m con vallas,529122,1,Torneo de Belgium
+Quincy HALL,carrera 400 m,43457,1,Torneo de Ukraine
+Quincy HALL,carrera 400 m,47761,1,Torneo de Mexico
+Dorcas Jepchirchir TUITOEK,carrera 21000 m,3483042,1,Torneo de Guinea-Bissau
+Dorcas Jepchirchir TUITOEK,carrera 21000 m,3827062,1,Torneo de Virgin Islands (British)
+Winnie NANYONDO,carrera 800 m,101899,1,Torneo de South Korea
+Winnie NANYONDO,carrera 800 m,111989,1,Torneo de Canada
+Lynsey SHARP,carrera 800 m,101904,1,Torneo de Monaco
+Lynsey SHARP,carrera 800 m,112022,1,Torneo de Angola
+Asefa MENGSTU,carrera 42000 m,7302153,1,Torneo de Japan
+Asefa MENGSTU,carrera 42000 m,8030109,1,Torneo de Honduras
+Raymond EKEVWO,carrera 100 m,9765,1,Torneo de Burundi
+Raymond EKEVWO,carrera 100 m,10735,1,Torneo de Latvia
+Winnie NANYONDO,carrera 1500 m,208805,1,Torneo de Togo
+Winnie NANYONDO,carrera 1500 m,229610,1,Torneo de Guinea
+Tamirat TOLA,carrera 10000 m,1608079,1,Torneo de Kosovo
+Tamirat TOLA,carrera 10000 m,1767550,1,Torneo de Finland
+Berehanu TSEGU,carrera 10000 m,1608306,1,Torneo de Belarus
+Berehanu TSEGU,carrera 10000 m,1768547,1,Torneo de Mauritius
+Roza DEREJE,carrera 21000 m,3481121,1,Torneo de Senegal
+Roza DEREJE,carrera 21000 m,3825191,1,Torneo de Netherlands
+Degitu AZIMERAW,carrera 42000 m,7307624,1,Torneo de Russia
+Degitu AZIMERAW,carrera 42000 m,8030678,1,Torneo de Malta
+Eduardo RODRIGUES,carrera 110 m con vallas,12100,1,Torneo de Luxembourg
+Eduardo RODRIGUES,carrera 110 m con vallas,13293,1,Torneo de Nicaragua
+Birhanu LEGESE,carrera 42000 m,7303206,1,Torneo de Botswana
+Birhanu LEGESE,carrera 42000 m,8023472,1,Torneo de Australia
+Stewart MCSWEYN,carrera 10000 m,1608164,1,Torneo de Kosovo
+Stewart MCSWEYN,carrera 10000 m,1768354,1,Torneo de Slovakia
+Salwa Eid NASER,carrera 400 m,43457,1,Torneo de South Korea
+Salwa Eid NASER,carrera 400 m,47771,1,Torneo de Trinidad and Tobago
+Emmanuel Kipkurui KORIR,carrera 800 m,101910,1,Torneo de Japan
+Emmanuel Kipkurui KORIR,carrera 800 m,112026,1,Torneo de Tuvalu
+Vincent Kiprotich KIBET,carrera 10000 m,1609953,1,Torneo de Vietnam
+Vincent Kiprotich KIBET,carrera 10000 m,1767971,1,Torneo de Bahrain
+Netsanet GUDETA,carrera 21000 m,3482018,1,Torneo de Syria
+Netsanet GUDETA,carrera 21000 m,3828474,1,Torneo de Switzerland
+Selemon BAREGA,carrera 5000 m,772111,1,Torneo de Bangladesh
+Selemon BAREGA,carrera 5000 m,849153,1,Torneo de Azerbaijan
+Kemar MOWATT,carrera 400 m con vallas,46099,1,Torneo de Bahamas
+Kemar MOWATT,carrera 400 m con vallas,50687,1,Torneo de Armenia
+Yuki KOIKE,carrera 100 m,9764,1,Torneo de Gambia
+Yuki KOIKE,carrera 100 m,10733,1,Torneo de Timor-Leste
+Benjamin KIGEN,carrera 3000 m con vallas,481168,1,Torneo de Sweden
+Benjamin KIGEN,carrera 3000 m con vallas,528889,1,Torneo de Kazakhstan
+Abadi HADIS,carrera 5000 m,772645,1,Torneo de Estonia
+Abadi HADIS,carrera 5000 m,849157,1,Torneo de Lithuania
+Paul CHELIMO,carrera 5000 m,772442,1,Torneo de Saudi Arabia
+Paul CHELIMO,carrera 5000 m,849132,1,Torneo de Myanmar
+Natoya GOULE,carrera 800 m,101894,1,Torneo de Monaco
+Natoya GOULE,carrera 800 m,112077,1,Torneo de Liberia
+Donavan BRAZIER,carrera 800 m,101977,1,Torneo de Malta
+Donavan BRAZIER,carrera 800 m,112075,1,Torneo de Sudan
+Seifu TURA,carrera 21000 m,3481150,1,Torneo de Congo Democratic Republic of the
+Seifu TURA,carrera 21000 m,3829025,1,Torneo de Panama
+Karsten WARHOLM,carrera 400 m con vallas,46102,1,Torneo de Israel
+Karsten WARHOLM,carrera 400 m con vallas,50697,1,Torneo de Ivory Coast
+Konstanze KLOSTERHALFEN,carrera 5000 m,772460,1,Torneo de Cameroon
+Konstanze KLOSTERHALFEN,carrera 5000 m,849050,1,Torneo de Congo Democratic Republic of the
+Mujinga KAMBUNDJI,carrera 200 m,19515,1,Torneo de Belize
+Mujinga KAMBUNDJI,carrera 200 m,21448,1,Torneo de Japan
+Yomif KEJELCHA,carrera 21000 m,3481810,1,Torneo de Wales
+Yomif KEJELCHA,carrera 21000 m,3828454,1,Torneo de Cyprus
+Fantu WORKU,carrera 5000 m,772328,1,Torneo de Qatar
+Fantu WORKU,carrera 5000 m,849255,1,Torneo de Syria
+Joshua CHEPTEGEI,carrera 10000 m,1609174,1,Torneo de Thailand
+Joshua CHEPTEGEI,carrera 10000 m,1766586,1,Torneo de South Africa
+Bernardo BALOYES,carrera 200 m,19522,1,Torneo de Guinea-Bissau
+Bernardo BALOYES,carrera 200 m,21440,1,Torneo de Sao Tome and Principe
+Kayla WHITE,carrera 100 m,9765,1,Torneo de Algeria
+Kayla WHITE,carrera 100 m,10732,1,Torneo de Syria
+Wilbert LONDON,carrera 400 m,43456,1,Torneo de Laos
+Wilbert LONDON,carrera 400 m,47706,1,Torneo de Liberia
+Hagos GEBRHIWET,carrera 5000 m,772664,1,Torneo de Honduras
+Hagos GEBRHIWET,carrera 5000 m,848703,1,Torneo de Sweden
+Kori CARTER,carrera 400 m con vallas,46117,1,Torneo de Malawi
+Kori CARTER,carrera 400 m con vallas,50694,1,Torneo de Philippines
+Shericka JACKSON,carrera 400 m,43501,1,Torneo de Sweden
+Shericka JACKSON,carrera 400 m,47762,1,Torneo de Gambia
+Tsigie GEBRESELAMA,carrera 10000 m,1608952,1,Torneo de Saint Lucia
+Tsigie GEBRESELAMA,carrera 10000 m,1768723,1,Torneo de Moldova
+ShaCarri RICHARDSON,carrera 100 m,9760,1,Torneo de Suriname
+ShaCarri RICHARDSON,carrera 100 m,10732,1,Torneo de Mauritius
+Hyvin KIYENG,carrera 3000 m con vallas,481179,1,Torneo de Kenya
+Hyvin KIYENG,carrera 3000 m con vallas,528800,1,Torneo de Oman
+Chala BEYO,carrera 3000 m con vallas,481040,1,Torneo de Georgia
+Chala BEYO,carrera 3000 m con vallas,529015,1,Torneo de Mozambique
+Blessing OKAGBARE,carrera 200 m,19508,1,Torneo de Oman
+Blessing OKAGBARE,carrera 200 m,21449,1,Torneo de Austria
+Beatrice CHEPKOECH,carrera 3000 m con vallas,481056,1,Torneo de Kyrgyzstan
+Beatrice CHEPKOECH,carrera 3000 m con vallas,529067,1,Torneo de Scotland
+Shamier LITTLE,carrera 400 m con vallas,46113,1,Torneo de Kazakhstan
+Shamier LITTLE,carrera 400 m con vallas,50699,1,Torneo de Mexico
+Fred KERLEY,carrera 400 m,43470,1,Torneo de French Guiana
+Fred KERLEY,carrera 400 m,47776,1,Torneo de Thailand
+Teahna DANIELS,carrera 200 m,19506,1,Torneo de Latvia
+Teahna DANIELS,carrera 200 m,21444,1,Torneo de Uzbekistan
+Caroline Chepkoech KIPKIRUI,carrera 21000 m,3481586,1,Torneo de North Korea
+Caroline Chepkoech KIPKIRUI,carrera 21000 m,3825784,1,Torneo de Cuba
+Stephen KIPROP,carrera 21000 m,3481218,1,Torneo de North Korea
+Stephen KIPROP,carrera 21000 m,3828110,1,Torneo de Bosnia and Herzegovina
+Andrea Carolina VARGAS,carrera 110 m con vallas,12105,1,Torneo de Germany
+Andrea Carolina VARGAS,carrera 110 m con vallas,13295,1,Torneo de Saint Lucia
+Yalemzerf YEHUALAW,carrera 21000 m,3482942,1,Torneo de Azerbaijan
+Yalemzerf YEHUALAW,carrera 21000 m,3827260,1,Torneo de Marshall Islands
+Vernon NORWOOD,carrera 400 m,43464,1,Torneo de Belize
+Vernon NORWOOD,carrera 400 m,47793,1,Torneo de Haiti
+Rushell CLAYTON,carrera 400 m con vallas,46118,1,Torneo de Papua New Guinea
+Rushell CLAYTON,carrera 400 m con vallas,50693,1,Torneo de Ethiopia
+David KENDZIERA,carrera 400 m con vallas,46118,1,Torneo de Uruguay
+David KENDZIERA,carrera 400 m con vallas,50690,1,Torneo de San Marino
+Molly HUDDLE,carrera 10000 m,1608385,1,Torneo de Bhutan
+Molly HUDDLE,carrera 10000 m,1768204,1,Torneo de Micronesia
+Sydney MCLAUGHLIN,carrera 400 m,43453,1,Torneo de United States
+Sydney MCLAUGHLIN,carrera 400 m,47793,1,Torneo de Iceland
+Tia-Adana BELLE,carrera 400 m con vallas,46202,1,Torneo de Central African Republic
+Tia-Adana BELLE,carrera 400 m con vallas,50660,1,Torneo de Gabon
+Shane BRATHWAITE,carrera 110 m con vallas,12128,1,Torneo de Slovakia
+Shane BRATHWAITE,carrera 110 m con vallas,13307,1,Torneo de Moldova
+Steven GARDINER,carrera 400 m,43453,1,Torneo de Andorra
+Steven GARDINER,carrera 400 m,47789,1,Torneo de Algeria
+Mario BURKE,carrera 100 m,9760,1,Torneo de San Marino
+Mario BURKE,carrera 100 m,10733,1,Torneo de Belize
+Phyllis FRANCIS,carrera 400 m,43450,1,Torneo de Lithuania
+Phyllis FRANCIS,carrera 400 m,47792,1,Torneo de Serbia
+Winny CHEBET,carrera 1500 m,208809,1,Torneo de Togo
+Winny CHEBET,carrera 1500 m,229539,1,Torneo de Belize
+Takatoshi ABE,carrera 400 m con vallas,46116,1,Torneo de Bulgaria
+Takatoshi ABE,carrera 400 m con vallas,50692,1,Torneo de Finland
+Barnabas KIPYEGO,carrera 3000 m con vallas,481256,1,Torneo de Australia
+Barnabas KIPYEGO,carrera 3000 m con vallas,529130,1,Torneo de United Arab Emirates
+Tsehay GEMECHU,carrera 10000 m,1608234,1,Torneo de Dominican Republic
+Tsehay GEMECHU,carrera 10000 m,1767171,1,Torneo de Vietnam
+Kendall ELLIS,carrera 400 m,43454,1,Torneo de Niger
+Kendall ELLIS,carrera 400 m,47793,1,Torneo de Cameroon
+Benard KIMELI,carrera 21000 m,3485931,1,Torneo de Indonesia
+Benard KIMELI,carrera 21000 m,3826137,1,Torneo de Congo Democratic Republic of the
+Takele NIGATE,carrera 3000 m con vallas,481059,1,Torneo de Venezuela
+Takele NIGATE,carrera 3000 m con vallas,528903,1,Torneo de Chile
+Rose Mary ALMANZA,carrera 800 m,101933,1,Torneo de Guyana
+Rose Mary ALMANZA,carrera 800 m,111967,1,Torneo de Armenia
+Steven GARDINER,carrera 200 m,19504,1,Torneo de Georgia
+Steven GARDINER,carrera 200 m,21450,1,Torneo de Gambia
+Omar MCLEOD,carrera 110 m con vallas,12099,1,Torneo de Kosovo
+Omar MCLEOD,carrera 110 m con vallas,13307,1,Torneo de South Korea
+Blessing OKAGBARE,carrera 100 m,9760,1,Torneo de Guinea-Bissau
+Blessing OKAGBARE,carrera 100 m,10736,1,Torneo de Russia
+Andamlak BELIHU,carrera 21000 m,3482665,1,Torneo de Ghana
+Andamlak BELIHU,carrera 21000 m,3827938,1,Torneo de Myanmar
+Hagos GEBRHIWET,carrera 10000 m,1608136,1,Torneo de Eritrea
+Hagos GEBRHIWET,carrera 10000 m,1767755,1,Torneo de Scotland
+Aminatou SEYNI,carrera 400 m,43484,1,Torneo de Niger
+Aminatou SEYNI,carrera 400 m,47772,1,Torneo de Guatemala
+Cravon GILLESPIE,carrera 200 m,19517,1,Torneo de Kuwait
+Cravon GILLESPIE,carrera 200 m,21438,1,Torneo de Tonga
+Kirani JAMES,carrera 400 m,43494,1,Torneo de South Africa
+Kirani JAMES,carrera 400 m,47772,1,Torneo de Singapore
+Lea SPRUNGER,carrera 400 m con vallas,46143,1,Torneo de Tajikistan
+Lea SPRUNGER,carrera 400 m con vallas,50701,1,Torneo de Syria
+Tebogo MAMATHU,carrera 100 m,9763,1,Torneo de Kuwait
+Tebogo MAMATHU,carrera 100 m,10735,1,Torneo de Brunei
+Getaneh MOLLA,carrera 42000 m,7303850,1,Torneo de Bahrain
+Getaneh MOLLA,carrera 42000 m,8026049,1,Torneo de Nigeria
+TJ HOLMES,carrera 400 m con vallas,46094,1,Torneo de Comoros
+TJ HOLMES,carrera 400 m con vallas,50687,1,Torneo de Azerbaijan
+Kiara PARKER,carrera 100 m,9765,1,Torneo de Mozambique
+Kiara PARKER,carrera 100 m,10730,1,Torneo de Monaco
+Matthew HUGHES,carrera 3000 m con vallas,481095,1,Torneo de Germany
+Matthew HUGHES,carrera 3000 m con vallas,529132,1,Torneo de Mali
+Eva CHERONO,carrera 5000 m,772275,1,Torneo de Cyprus
+Eva CHERONO,carrera 5000 m,848796,1,Torneo de Haiti
+Emmanuel Kipkurui KORIR,carrera 400 m,43498,1,Torneo de Kiribati
+Emmanuel Kipkurui KORIR,carrera 400 m,47765,1,Torneo de Madagascar
+Jenny SIMPSON,carrera 1500 m,208884,1,Torneo de Mali
+Jenny SIMPSON,carrera 1500 m,229430,1,Torneo de Barbados
+Ciara MAGEEAN,carrera 1500 m,209043,1,Torneo de Bhutan
+Ciara MAGEEAN,carrera 1500 m,229635,1,Torneo de Panama
+Degitu AZIMERAW,carrera 10000 m,1610703,1,Torneo de Equatorial Guinea
+Degitu AZIMERAW,carrera 10000 m,1768348,1,Torneo de Sri Lanka
+Vivian J. CHERUIYOT,carrera 21000 m,3484087,1,Torneo de Bangladesh
+Vivian J. CHERUIYOT,carrera 21000 m,3827707,1,Torneo de Turkey
+Alemu MEGERTU,carrera 21000 m,3482593,1,Torneo de Puerto Rico
+Alemu MEGERTU,carrera 21000 m,3826947,1,Torneo de Scotland
+Shivpal SINGH,lanzamiento de jabalina,9967,2,Torneo de Greece
+Shivpal SINGH,lanzamiento de jabalina,9063,9,Torneo de Scotland
+Tina ŠUTEJ,salto con pertiga,667,1,Torneo de Vietnam
+Tina ŠUTEJ,salto con pertiga,606,10,Torneo de Trinidad and Tobago
+Omar CRADDOCK,salto triple,1995,3,Torneo de Tanzania
+Omar CRADDOCK,salto triple,1814,2,Torneo de Puerto Rico
+Kelsey CARD,lanzamiento de disco,7905,1,Torneo de Jordan
+Kelsey CARD,lanzamiento de disco,7187,4,Torneo de Chad
+Sara KOLAK,lanzamiento de jabalina,9940,8,Torneo de Morocco
+Sara KOLAK,lanzamiento de jabalina,9087,4,Torneo de Zimbabwe
+Darya NIDBAYKINA,salto triple,1996,4,Torneo de Sweden
+Darya NIDBAYKINA,salto triple,1814,3,Torneo de Turkey
+Yanis Esmeralda DAVID,salto triple,1996,1,Torneo de Canada
+Yanis Esmeralda DAVID,salto triple,1815,3,Torneo de Paraguay
+Liveta JASIŪNAITĖ,lanzamiento de jabalina,9964,2,Torneo de Cabo Verde
+Liveta JASIŪNAITĖ,lanzamiento de jabalina,9064,9,Torneo de Morocco
+Tissanna HICKLING,salto largo,956,7,Torneo de Macedonia
+Tissanna HICKLING,salto largo,871,10,Torneo de Slovenia
+Thobias MONTLER,salto largo,956,4,Torneo de Bangladesh
+Thobias MONTLER,salto largo,869,2,Torneo de Mexico
+Miltiadis TENTOGLOU,salto largo,956,9,Torneo de United Arab Emirates
+Miltiadis TENTOGLOU,salto largo,869,3,Torneo de Mozambique
+Yarisley SILVA,salto con pertiga,667,3,Torneo de Vatican City
+Yarisley SILVA,salto con pertiga,606,1,Torneo de Slovakia
+Andrius GUDŽIUS,lanzamiento de disco,7904,4,Torneo de Israel
+Andrius GUDŽIUS,lanzamiento de disco,7192,2,Torneo de Turkey
+Tim NEDOW,lanzamiento de bala,2521,7,Torneo de United States
+Tim NEDOW,lanzamiento de bala,2292,1,Torneo de Micronesia
+Keshorn WALCOTT,lanzamiento de jabalina,9959,9,Torneo de Marshall Islands
+Keshorn WALCOTT,lanzamiento de jabalina,9061,2,Torneo de Scotland
+Darlan ROMANI,lanzamiento de bala,2521,8,Torneo de Sri Lanka
+Darlan ROMANI,lanzamiento de bala,2291,8,Torneo de Ukraine
+JuVaughn HARRISON,salto largo,956,7,Torneo de Nicaragua
+JuVaughn HARRISON,salto largo,869,6,Torneo de Montenegro
+Jacko GILL,lanzamiento de bala,2516,3,Torneo de Macedonia
+Jacko GILL,lanzamiento de bala,2291,9,Torneo de Solomon Islands
+Yelena SOKOLOVA,salto largo,956,1,Torneo de Monaco
+Yelena SOKOLOVA,salto largo,869,6,Torneo de Slovakia
+Edis MATUSEVIČIUS,lanzamiento de jabalina,9966,7,Torneo de Jordan
+Edis MATUSEVIČIUS,lanzamiento de jabalina,9067,10,Torneo de Singapore
+Jeneva STEVENS,lanzamiento de bala,2521,3,Torneo de Bhutan
+Jeneva STEVENS,lanzamiento de bala,2291,7,Torneo de Palau
+Joe KOVACS,lanzamiento de bala,2519,6,Torneo de Ukraine
+Joe KOVACS,lanzamiento de bala,2291,7,Torneo de Canada
+Bernhard SEIFERT,lanzamiento de jabalina,9966,8,Torneo de Portugal
+Bernhard SEIFERT,lanzamiento de jabalina,9062,4,Torneo de Guinea-Bissau
+Marike STEINACKER,lanzamiento de disco,7892,4,Torneo de Sweden
+Marike STEINACKER,lanzamiento de disco,7192,10,Torneo de Indonesia
+Benjamin WILLIAMS,salto triple,1996,10,Torneo de Guyana
+Benjamin WILLIAMS,salto triple,1815,6,Torneo de Marshall Islands
+Yang CHEN,lanzamiento de disco,7903,8,Torneo de Zimbabwe
+Yang CHEN,lanzamiento de disco,7189,3,Torneo de Latvia
+Ola STUNES ISENE,lanzamiento de disco,7903,10,Torneo de Sierra Leone
+Ola STUNES ISENE,lanzamiento de disco,7186,5,Torneo de Guinea
+Yekaterina STARYGINA,lanzamiento de jabalina,9962,5,Torneo de Saint Lucia
+Yekaterina STARYGINA,lanzamiento de jabalina,9065,8,Torneo de Afghanistan
+Conor MCCULLOUGH,lanzamiento de martillo,8988,10,Torneo de Venezuela
+Conor MCCULLOUGH,lanzamiento de martillo,8181,7,Torneo de Denmark
+Eliza MCCARTNEY,salto con pertiga,667,4,Torneo de Denmark
+Eliza MCCARTNEY,salto con pertiga,606,6,Torneo de Uzbekistan
+Robert URBANEK,lanzamiento de disco,7905,3,Torneo de Peru
+Robert URBANEK,lanzamiento de disco,7194,3,Torneo de Georgia
+Hibiki TSUHA,salto largo,956,3,Torneo de Montenegro
+Hibiki TSUHA,salto largo,869,5,Torneo de Wales
+Alysha NEWMAN,salto con pertiga,667,3,Torneo de Kenya
+Alysha NEWMAN,salto con pertiga,606,10,Torneo de Uganda
+Mirela DEMIREVA,salto de altura,261,1,Torneo de Yemen
+Mirela DEMIREVA,salto de altura,237,7,Torneo de Samoa
+Hilary KPATCHA,salto largo,956,8,Torneo de Palau
+Hilary KPATCHA,salto largo,869,3,Torneo de Vanuatu
+Tomas WALSH,lanzamiento de bala,2521,6,Torneo de Panama
+Tomas WALSH,lanzamiento de bala,2291,1,Torneo de Nigeria
+Renaud LAVILLENIE,salto con pertiga,667,1,Torneo de Suriname
+Renaud LAVILLENIE,salto con pertiga,606,4,Torneo de Slovakia
+Arshad NADEEM,lanzamiento de jabalina,9968,10,Torneo de Japan
+Arshad NADEEM,lanzamiento de jabalina,9062,10,Torneo de Finland
+Eivind HENRIKSEN,lanzamiento de martillo,8992,6,Torneo de Niger
+Eivind HENRIKSEN,lanzamiento de martillo,8180,8,Torneo de Kenya
+Paraskevi PAPACHRISTOU,salto triple,1996,8,Torneo de Indonesia
+Paraskevi PAPACHRISTOU,salto triple,1814,10,Torneo de Central African Republic
+David WROBEL,lanzamiento de disco,7905,5,Torneo de Lithuania
+David WROBEL,lanzamiento de disco,7191,5,Torneo de Iraq
+Michał HARATYK,lanzamiento de bala,2521,2,Torneo de Jamaica
+Michał HARATYK,lanzamiento de bala,2293,10,Torneo de Turkey
+Kamila LIĆWINKO,salto de altura,261,3,Torneo de Trinidad and Tobago
+Kamila LIĆWINKO,salto de altura,237,2,Torneo de Togo
+Janee KASSANAVOID,lanzamiento de martillo,8992,8,Torneo de Spain
+Janee KASSANAVOID,lanzamiento de martillo,8174,6,Torneo de Equatorial Guinea
+Ehsan HADADI,lanzamiento de disco,7902,1,Torneo de Eritrea
+Ehsan HADADI,lanzamiento de disco,7186,7,Torneo de Northern Ireland
+Yaimé PÉREZ,lanzamiento de disco,7899,10,Torneo de Gambia
+Yaimé PÉREZ,lanzamiento de disco,7189,4,Torneo de Puerto Rico
+Alexie ALAÏS,lanzamiento de jabalina,9965,4,Torneo de Tunisia
+Alexie ALAÏS,lanzamiento de jabalina,9063,8,Torneo de North Korea
+Sam KENDRICKS,salto con pertiga,667,2,Torneo de Mexico
+Sam KENDRICKS,salto con pertiga,606,3,Torneo de Saint Vincent and the Grenadines
+Yanis Esmeralda DAVID,salto largo,956,3,Torneo de Panama
+Yanis Esmeralda DAVID,salto largo,869,10,Torneo de Suriname
+Christin HUSSONG,lanzamiento de jabalina,9966,3,Torneo de Eritrea
+Christin HUSSONG,lanzamiento de jabalina,9065,8,Torneo de Lithuania
+Julius YEGO,lanzamiento de jabalina,9968,1,Torneo de United Arab Emirates
+Julius YEGO,lanzamiento de jabalina,9062,9,Torneo de Austria
+Fedrick DACRES,lanzamiento de disco,7904,4,Torneo de Paraguay
+Fedrick DACRES,lanzamiento de disco,7189,1,Torneo de Uzbekistan
+Ruswahl SAMAAI,salto largo,956,9,Torneo de Antigua and Barbuda
+Ruswahl SAMAAI,salto largo,869,3,Torneo de North Korea
+Kelsey-Lee BARBER,lanzamiento de jabalina,9963,7,Torneo de Mexico
+Kelsey-Lee BARBER,lanzamiento de jabalina,9066,3,Torneo de Netherlands
+Naa ANANG,salto largo,956,3,Torneo de Virgin Islands (British)
+Naa ANANG,salto largo,869,4,Torneo de Puerto Rico
+Tajay GAYLE,salto largo,955,3,Torneo de Scotland
+Tajay GAYLE,salto largo,869,6,Torneo de Papua New Guinea
+Iryna ZHUK,salto con pertiga,667,7,Torneo de Iran
+Iryna ZHUK,salto con pertiga,606,10,Torneo de Slovenia
+Luvo MANYONGA,salto largo,956,9,Torneo de United Arab Emirates
+Luvo MANYONGA,salto largo,869,10,Torneo de Guatemala
+Changzhou HUANG,salto largo,956,8,Torneo de Puerto Rico
+Changzhou HUANG,salto largo,870,9,Torneo de Equatorial Guinea
+Joanna FIODOROW,lanzamiento de martillo,8986,1,Torneo de San Marino
+Joanna FIODOROW,lanzamiento de martillo,8175,5,Torneo de Costa Rica
+Jeron ROBINSON,salto de altura,261,8,Torneo de Uruguay
+Jeron ROBINSON,salto de altura,237,3,Torneo de Tanzania
+Eldred HENRY,lanzamiento de bala,2519,2,Torneo de Zimbabwe
+Eldred HENRY,lanzamiento de bala,2291,7,Torneo de Russia
+Jessica RAMSEY,lanzamiento de bala,2519,10,Torneo de Egypt
+Jessica RAMSEY,lanzamiento de bala,2292,3,Torneo de Puerto Rico
+Anna CHICHEROVA,salto de altura,261,8,Torneo de Denmark
+Anna CHICHEROVA,salto de altura,237,3,Torneo de South Africa
+Nadia EKE,salto triple,1996,8,Torneo de Bhutan
+Nadia EKE,salto triple,1814,3,Torneo de Guyana
+Xinglong GAO,salto largo,956,9,Torneo de Romania
+Xinglong GAO,salto largo,869,10,Torneo de Chad
+Darya KLISHINA,salto largo,956,8,Torneo de Albania
+Darya KLISHINA,salto largo,869,9,Torneo de Turkmenistan
+Ben BROEDERS,salto con pertiga,667,5,Torneo de Virgin Islands (British)
+Ben BROEDERS,salto con pertiga,606,7,Torneo de Guyana
+María Fernanda MURILLO,salto de altura,261,5,Torneo de Turkey
+María Fernanda MURILLO,salto de altura,237,4,Torneo de Thailand
+Ernest John OBIENA,salto con pertiga,667,1,Torneo de Trinidad and Tobago
+Ernest John OBIENA,salto con pertiga,606,10,Torneo de Slovakia
+Thomas RÖHLER,lanzamiento de jabalina,9967,9,Torneo de Chad
+Thomas RÖHLER,lanzamiento de jabalina,9063,3,Torneo de Saint Vincent and the Grenadines
+Ana ŠIMIĆ,salto de altura,261,6,Torneo de Nicaragua
+Ana ŠIMIĆ,salto de altura,237,5,Torneo de Vatican City
+Paweł FAJDEK,lanzamiento de martillo,8988,6,Torneo de Central African Republic
+Paweł FAJDEK,lanzamiento de martillo,8174,1,Torneo de Comoros
+Florentina Costina IUSCO,salto largo,956,2,Torneo de Liechtenstein
+Florentina Costina IUSCO,salto largo,869,10,Torneo de Tonga
+Yulimar ROJAS,salto triple,1996,6,Torneo de Togo
+Yulimar ROJAS,salto triple,1815,4,Torneo de Canada
+Oliver HELANDER,lanzamiento de jabalina,9956,8,Torneo de Slovakia
+Oliver HELANDER,lanzamiento de jabalina,9067,6,Torneo de South Africa
+Christian TAYLOR,salto triple,1994,2,Torneo de Slovenia
+Christian TAYLOR,salto triple,1815,6,Torneo de Oman
+Yaoqing FANG,salto triple,1996,7,Torneo de Nauru
+Yaoqing FANG,salto triple,1816,1,Torneo de Mozambique
+Caterine IBARGUEN,salto triple,1995,7,Torneo de Angola
+Caterine IBARGUEN,salto triple,1814,1,Torneo de Laos
+Marie-Laurence JUNGFLEISCH,salto de altura,261,7,Torneo de Italy
+Marie-Laurence JUNGFLEISCH,salto de altura,237,9,Torneo de Yemen
+Cristian NÁPOLES,salto triple,1996,3,Torneo de Maldives
+Cristian NÁPOLES,salto triple,1814,9,Torneo de Saint Lucia
+Quentin BIGOT,lanzamiento de martillo,8986,5,Torneo de Thailand
+Quentin BIGOT,lanzamiento de martillo,8182,2,Torneo de Malawi
+Luis Enrique ZAYAS,salto de altura,261,10,Torneo de Uruguay
+Luis Enrique ZAYAS,salto de altura,237,7,Torneo de Puerto Rico
+Keturah ORJI,salto largo,956,7,Torneo de Monaco
+Keturah ORJI,salto largo,870,9,Torneo de United States
+Stefano SOTTILE,salto de altura,261,9,Torneo de South Sudan
+Stefano SOTTILE,salto de altura,237,1,Torneo de Malta
+Andriy PROTSENKO,salto de altura,261,9,Torneo de Uganda
+Andriy PROTSENKO,salto de altura,237,8,Torneo de Wales
+Valeriy PRONKIN,lanzamiento de martillo,8991,10,Torneo de Djibouti
+Valeriy PRONKIN,lanzamiento de martillo,8174,5,Torneo de Greece
+Marcin KRUKOWSKI,lanzamiento de jabalina,9968,3,Torneo de New Zealand
+Marcin KRUKOWSKI,lanzamiento de jabalina,9064,1,Torneo de Bangladesh
+Laura IGAUNE,lanzamiento de martillo,8990,10,Torneo de Iraq
+Laura IGAUNE,lanzamiento de martillo,8175,2,Torneo de Ivory Coast
+Augusto DUTRA,salto con pertiga,667,9,Torneo de Qatar
+Augusto DUTRA,salto con pertiga,606,8,Torneo de Nicaragua
+Barbora ŠPOTÁKOVÁ,lanzamiento de jabalina,9953,2,Torneo de Thailand
+Barbora ŠPOTÁKOVÁ,lanzamiento de jabalina,9064,8,Torneo de Bolivia
+Shiying LIU,lanzamiento de jabalina,9960,4,Torneo de Rwanda
+Shiying LIU,lanzamiento de jabalina,9061,8,Torneo de Burundi
+Lina MUZE,lanzamiento de jabalina,9963,3,Torneo de Albania
+Lina MUZE,lanzamiento de jabalina,9072,8,Torneo de Burkina Faso
+Shoutarou SHIROYAMA,salto largo,956,8,Torneo de Namibia
+Shoutarou SHIROYAMA,salto largo,869,9,Torneo de Sweden
+Yekaterina KONEVA,salto triple,1995,7,Torneo de Myanmar
+Yekaterina KONEVA,salto triple,1814,9,Torneo de Greece
+Wojciech NOWICKI,lanzamiento de martillo,8992,5,Torneo de Venezuela
+Wojciech NOWICKI,lanzamiento de martillo,8177,4,Torneo de Togo
+Django LOVETT,salto de altura,261,4,Torneo de Turkey
+Django LOVETT,salto de altura,237,9,Torneo de Rwanda
+Hugues Fabrice ZANGO,salto triple,1994,1,Torneo de Ukraine
+Hugues Fabrice ZANGO,salto triple,1816,5,Torneo de Benin
+Zachery BRADFORD,salto con pertiga,667,2,Torneo de Syria
+Zachery BRADFORD,salto con pertiga,606,2,Torneo de Saint Kitts and Nevis
+Katarina JOHNSON-THOMPSON,salto de altura,261,1,Torneo de Syria
+Katarina JOHNSON-THOMPSON,salto de altura,237,6,Torneo de Singapore
+Torben BLECH,salto con pertiga,667,10,Torneo de Slovakia
+Torben BLECH,salto con pertiga,606,9,Torneo de Zimbabwe
+Christina SCHWANITZ,lanzamiento de bala,2520,6,Torneo de United States
+Christina SCHWANITZ,lanzamiento de bala,2291,2,Torneo de Vatican City
+Antti RUUSKANEN,lanzamiento de jabalina,9966,5,Torneo de Niger
+Antti RUUSKANEN,lanzamiento de jabalina,9069,5,Torneo de Sudan
+Katarina JOHNSON-THOMPSON,salto largo,955,7,Torneo de Singapore
+Katarina JOHNSON-THOMPSON,salto largo,869,10,Torneo de Iceland
+Chao-Tsun CHENG,lanzamiento de jabalina,9968,6,Torneo de Syria
+Chao-Tsun CHENG,lanzamiento de jabalina,9063,4,Torneo de Equatorial Guinea
+Chase EALEY,lanzamiento de bala,2521,5,Torneo de Bahrain
+Chase EALEY,lanzamiento de bala,2291,5,Torneo de Kazakhstan
+Christopher NILSEN,salto con pertiga,667,10,Torneo de Puerto Rico
+Christopher NILSEN,salto con pertiga,606,4,Torneo de Sri Lanka
+Yaoguang ZHANG,salto largo,956,1,Torneo de Scotland
+Yaoguang ZHANG,salto largo,869,4,Torneo de Madagascar
+Tori BOWIE,salto largo,956,5,Torneo de Kyrgyzstan
+Tori BOWIE,salto largo,869,8,Torneo de Malaysia
+Keturah ORJI,salto triple,1996,10,Torneo de Gabon
+Keturah ORJI,salto triple,1814,4,Torneo de France
+Hleb DUDARAU,lanzamiento de martillo,8988,9,Torneo de El Salvador
+Hleb DUDARAU,lanzamiento de martillo,8178,6,Torneo de Comoros
+Bohdan BONDARENKO,salto de altura,261,8,Torneo de Ukraine
+Bohdan BONDARENKO,salto de altura,237,10,Torneo de Turkmenistan
+Zalina PETRIVSKAYA,lanzamiento de martillo,8992,1,Torneo de Italy
+Zalina PETRIVSKAYA,lanzamiento de martillo,8175,9,Torneo de San Marino
+Huihui LYU,lanzamiento de jabalina,9959,6,Torneo de Singapore
+Huihui LYU,lanzamiento de jabalina,9063,9,Torneo de Bolivia
+Anita MÁRTON,lanzamiento de bala,2521,9,Torneo de Honduras
+Anita MÁRTON,lanzamiento de bala,2291,3,Torneo de Northern Ireland
+Yelena PANOVA,lanzamiento de disco,7904,5,Torneo de United Arab Emirates
+Yelena PANOVA,lanzamiento de disco,7186,8,Torneo de Albania
+Takashi ETO,salto de altura,261,5,Torneo de Panama
+Takashi ETO,salto de altura,237,6,Torneo de Uruguay
+Yevgeniy KOROTOVSKIY,lanzamiento de martillo,8987,4,Torneo de Wales
+Yevgeniy KOROTOVSKIY,lanzamiento de martillo,8176,10,Torneo de Nigeria
+Mykhaylo KOKHAN,lanzamiento de martillo,8975,10,Torneo de Germany
+Mykhaylo KOKHAN,lanzamiento de martillo,8178,8,Torneo de New Zealand
+Yosiris URRUTIA,salto triple,1996,7,Torneo de Afghanistan
+Yosiris URRUTIA,salto triple,1815,2,Torneo de Sao Tome and Principe
+Michelle CARTER,lanzamiento de bala,2521,10,Torneo de Pakistan
+Michelle CARTER,lanzamiento de bala,2291,5,Torneo de Maldives
+Olivia GRUVER,salto con pertiga,667,9,Torneo de Qatar
+Olivia GRUVER,salto con pertiga,606,4,Torneo de Ireland
+Ninon GUILLON-ROMARIN,salto con pertiga,667,7,Torneo de United Arab Emirates
+Ninon GUILLON-ROMARIN,salto con pertiga,606,5,Torneo de New Zealand
+Nicola MCDERMOTT,salto de altura,261,10,Torneo de Syria
+Nicola MCDERMOTT,salto de altura,237,6,Torneo de Namibia
+Paulina GUBA,lanzamiento de bala,2516,2,Torneo de Nicaragua
+Paulina GUBA,lanzamiento de bala,2291,10,Torneo de Madagascar
+Claudine VITA,lanzamiento de disco,7905,9,Torneo de Sudan
+Claudine VITA,lanzamiento de disco,7189,3,Torneo de India
+Joel BADEN,salto de altura,261,3,Torneo de Zambia
+Joel BADEN,salto de altura,237,9,Torneo de Turkmenistan
+Nikola OGRODNÍKOVÁ,lanzamiento de jabalina,9960,6,Torneo de Grenada
+Nikola OGRODNÍKOVÁ,lanzamiento de jabalina,9065,4,Torneo de Lithuania
+Orazio CREMONA,lanzamiento de bala,2520,5,Torneo de Burkina Faso
+Orazio CREMONA,lanzamiento de bala,2294,1,Torneo de Mongolia
+Shanieka RICKETTS,salto triple,1995,6,Torneo de Barbados
+Shanieka RICKETTS,salto triple,1814,10,Torneo de Kazakhstan
+Shara PROCTOR,salto largo,956,3,Torneo de Togo
+Shara PROCTOR,salto largo,869,6,Torneo de Taiwan
+Ruiting WU,salto triple,1996,9,Torneo de Luxembourg
+Ruiting WU,salto triple,1815,4,Torneo de Madagascar
+Maggie EWEN,lanzamiento de martillo,8985,10,Torneo de Panama
+Maggie EWEN,lanzamiento de martillo,8174,4,Torneo de Venezuela
+Serhiy REHEDA,lanzamiento de martillo,8989,6,Torneo de Rwanda
+Serhiy REHEDA,lanzamiento de martillo,8177,2,Torneo de Ukraine
+Filip MIHALJEVIĆ,lanzamiento de bala,2520,9,Torneo de Tonga
+Filip MIHALJEVIĆ,lanzamiento de bala,2291,8,Torneo de Marshall Islands
+Ariana INCE,lanzamiento de jabalina,9967,4,Torneo de Kuwait
+Ariana INCE,lanzamiento de jabalina,9064,4,Torneo de Norway
+Andy DÍAZ,salto triple,1995,4,Torneo de Luxembourg
+Andy DÍAZ,salto triple,1815,9,Torneo de Niger
+Huiqin XU,salto con pertiga,667,4,Torneo de Tunisia
+Huiqin XU,salto con pertiga,606,7,Torneo de Spain
+Mesud PEZER,lanzamiento de bala,2521,6,Torneo de Zambia
+Mesud PEZER,lanzamiento de bala,2291,5,Torneo de India
+Darrell HILL,lanzamiento de bala,2520,4,Torneo de French Guiana
+Darrell HILL,lanzamiento de bala,2293,5,Torneo de Northern Ireland
+Patrícia MAMONA,salto triple,1996,6,Torneo de Colombia
+Patrícia MAMONA,salto triple,1814,6,Torneo de Kuwait
+Lukas WEISSHAIDINGER,lanzamiento de disco,7894,10,Torneo de Ivory Coast
+Lukas WEISSHAIDINGER,lanzamiento de disco,7188,5,Torneo de Marshall Islands
+Jeff HENDERSON,salto largo,956,2,Torneo de Kenya
+Jeff HENDERSON,salto largo,869,9,Torneo de Suriname
+Yuliya LEVCHENKO,salto de altura,261,6,Torneo de Tajikistan
+Yuliya LEVCHENKO,salto de altura,237,5,Torneo de United States
+Mutaz Essa BARSHIM,salto de altura,261,6,Torneo de Trinidad and Tobago
+Mutaz Essa BARSHIM,salto de altura,237,4,Torneo de Vatican City
+Sondre GUTTORMSEN,salto con pertiga,667,7,Torneo de Uruguay
+Sondre GUTTORMSEN,salto con pertiga,606,6,Torneo de Lithuania
+Brooke ANDERSEN,lanzamiento de martillo,8990,7,Torneo de Mauritius
+Brooke ANDERSEN,lanzamiento de martillo,8177,4,Torneo de Wales
+Mikhail AKIMENKO,salto de altura,261,9,Torneo de Puerto Rico
+Mikhail AKIMENKO,salto de altura,237,10,Torneo de Syria
+Daniella HILL,lanzamiento de bala,2518,10,Torneo de Zimbabwe
+Daniella HILL,lanzamiento de bala,2291,6,Torneo de Saudi Arabia
+Maykel MASSÓ,salto largo,956,5,Torneo de Saint Vincent and the Grenadines
+Maykel MASSÓ,salto largo,869,10,Torneo de South Korea
+Lois Maikel MARTÍNEZ,lanzamiento de disco,7902,6,Torneo de Ecuador
+Lois Maikel MARTÍNEZ,lanzamiento de disco,7187,7,Torneo de Panama
+Jennifer SUHR,salto con pertiga,667,4,Torneo de Qatar
+Jennifer SUHR,salto con pertiga,606,6,Torneo de Philippines
+Olga RYPAKOVA,salto triple,1996,7,Torneo de Eritrea
+Olga RYPAKOVA,salto triple,1814,4,Torneo de Oman
+Yuki HASHIOKA,salto largo,956,1,Torneo de India
+Yuki HASHIOKA,salto largo,869,4,Torneo de Lesotho
+Xinyue SU,lanzamiento de disco,7904,3,Torneo de Mauritania
+Xinyue SU,lanzamiento de disco,7197,5,Torneo de Puerto Rico
+Dzmitry NABOKAU,salto de altura,261,10,Torneo de Uzbekistan
+Dzmitry NABOKAU,salto de altura,237,4,Torneo de Puerto Rico
+Hanna SKYDAN,lanzamiento de martillo,8989,10,Torneo de Brazil
+Hanna SKYDAN,lanzamiento de martillo,8174,1,Torneo de Sudan
+Yaroslava MAHUCHIKH,salto de altura,261,2,Torneo de Zimbabwe
+Yaroslava MAHUCHIKH,salto de altura,237,8,Torneo de Puerto Rico
+Bin FENG,lanzamiento de disco,7905,8,Torneo de Rwanda
+Bin FENG,lanzamiento de disco,7191,3,Torneo de Central African Republic
+Na LUO,lanzamiento de martillo,8990,1,Torneo de Bahamas
+Na LUO,lanzamiento de martillo,8180,6,Torneo de China
+Tihomir IVANOV,salto de altura,261,6,Torneo de Senegal
+Tihomir IVANOV,salto de altura,237,4,Torneo de Virgin Islands (British)
+Andrew IRWIN,salto con pertiga,667,1,Torneo de Puerto Rico
+Andrew IRWIN,salto con pertiga,606,5,Torneo de Andorra
+Kara WINGER,lanzamiento de jabalina,9966,6,Torneo de Poland
+Kara WINGER,lanzamiento de jabalina,9066,7,Torneo de Malta
+Valarie ALLMAN,lanzamiento de disco,7905,8,Torneo de French Guiana
+Valarie ALLMAN,lanzamiento de disco,7190,7,Torneo de Iraq
+Christoph HARTING,lanzamiento de disco,7905,4,Torneo de Norway
+Christoph HARTING,lanzamiento de disco,7187,1,Torneo de Mexico
+Iryna KLYMETS,lanzamiento de martillo,8992,2,Torneo de Kuwait
+Iryna KLYMETS,lanzamiento de martillo,8185,7,Torneo de Nicaragua
+Alyona GORDEYEVA,lanzamiento de bala,2521,8,Torneo de Scotland
+Alyona GORDEYEVA,lanzamiento de bala,2292,6,Torneo de Bhutan
+Annika Marie FUCHS,lanzamiento de jabalina,9967,2,Torneo de Italy
+Annika Marie FUCHS,lanzamiento de jabalina,9064,1,Torneo de Serbia
+Apostolos PARELLIS,lanzamiento de disco,7898,1,Torneo de Iraq
+Apostolos PARELLIS,lanzamiento de disco,7188,4,Torneo de Bolivia
+Maksim NEDASEKAU,salto de altura,261,3,Torneo de Marshall Islands
+Maksim NEDASEKAU,salto de altura,237,7,Torneo de Uruguay
+Sam MATTIS,lanzamiento de disco,7905,5,Torneo de Uganda
+Sam MATTIS,lanzamiento de disco,7190,4,Torneo de Vietnam
+Eda TUĞSUZ,lanzamiento de jabalina,9965,8,Torneo de India
+Eda TUĞSUZ,lanzamiento de jabalina,9071,8,Torneo de Trinidad and Tobago
+Fernanda MARTINS,lanzamiento de disco,7904,5,Torneo de Liberia
+Fernanda MARTINS,lanzamiento de disco,7186,10,Torneo de Sao Tome and Principe
+Thiago BRAZ,salto con pertiga,667,8,Torneo de Zambia
+Thiago BRAZ,salto con pertiga,606,9,Torneo de Saint Lucia
+Özkan BALTACI,lanzamiento de martillo,8990,8,Torneo de Wales
+Özkan BALTACI,lanzamiento de martillo,8175,6,Torneo de Congo Democratic Republic of the
+Daniil TSYPLAKOV,salto de altura,261,9,Torneo de Venezuela
+Daniil TSYPLAKOV,salto de altura,237,6,Torneo de Slovakia
+Shadae LAWRENCE,lanzamiento de disco,7905,3,Torneo de Myanmar
+Shadae LAWRENCE,lanzamiento de disco,7191,1,Torneo de Ecuador
+Paweł WOJCIECHOWSKI,salto con pertiga,667,3,Torneo de Romania
+Paweł WOJCIECHOWSKI,salto con pertiga,606,1,Torneo de Slovenia
+Shelby MCEWEN,salto de altura,261,5,Torneo de Tuvalu
+Shelby MCEWEN,salto de altura,237,6,Torneo de Vatican City
+Tatsiana KHALADOVICH,lanzamiento de jabalina,9962,6,Torneo de Serbia
+Tatsiana KHALADOVICH,lanzamiento de jabalina,9064,1,Torneo de Grenada
+Yelizaveta TSAREVA,lanzamiento de martillo,8990,9,Torneo de Kazakhstan
+Yelizaveta TSAREVA,lanzamiento de martillo,8175,2,Torneo de Ukraine
+Anderson PETERS,lanzamiento de jabalina,9966,8,Torneo de Liechtenstein
+Anderson PETERS,lanzamiento de jabalina,9061,5,Torneo de Colombia
+Andwuelle WRIGHT,salto largo,956,2,Torneo de Ukraine
+Andwuelle WRIGHT,salto largo,869,2,Torneo de Kazakhstan
+Sean DONNELLY,lanzamiento de martillo,8988,3,Torneo de Suriname
+Sean DONNELLY,lanzamiento de martillo,8179,7,Torneo de Bahrain
+Majd Eddin GHAZAL,salto de altura,261,5,Torneo de United States
+Majd Eddin GHAZAL,salto de altura,237,3,Torneo de South Africa
+Mason FINLEY,lanzamiento de disco,7901,4,Torneo de Somalia
+Mason FINLEY,lanzamiento de disco,7186,6,Torneo de Qatar
+Chengetayi MAPAYA,salto triple,1996,9,Torneo de Switzerland
+Chengetayi MAPAYA,salto triple,1814,7,Torneo de Macedonia
+Armand DUPLANTIS,salto con pertiga,667,1,Torneo de Rwanda
+Armand DUPLANTIS,salto con pertiga,606,1,Torneo de Czechia
+Kristin GIERISCH,salto triple,1996,7,Torneo de Suriname
+Kristin GIERISCH,salto triple,1814,4,Torneo de Kyrgyzstan
+Tomáš STANĚK,lanzamiento de bala,2521,7,Torneo de Monaco
+Tomáš STANĚK,lanzamiento de bala,2293,6,Torneo de Benin
+Rudy WINKLER,lanzamiento de martillo,8991,2,Torneo de Eritrea
+Rudy WINKLER,lanzamiento de martillo,8174,8,Torneo de Nepal
+Anita WŁODARCZYK,lanzamiento de martillo,8990,4,Torneo de Sudan
+Anita WŁODARCZYK,lanzamiento de martillo,8175,1,Torneo de Vanuatu
+Tori FRANKLIN,salto triple,1995,7,Torneo de Panama
+Tori FRANKLIN,salto triple,1814,7,Torneo de Solomon Islands
+Donald SCOTT,salto triple,1995,4,Torneo de Suriname
+Donald SCOTT,salto triple,1814,7,Torneo de Mozambique
+Jordan Alejandro DÍAZ FORTUN,salto triple,1996,1,Torneo de Norway
+Jordan Alejandro DÍAZ FORTUN,salto triple,1815,1,Torneo de Fiji
+Mateusz PRZYBYLKO,salto de altura,261,10,Torneo de Uganda
+Mateusz PRZYBYLKO,salto de altura,237,2,Torneo de Ukraine
+Kenyattia HACKWORTH,salto largo,956,1,Torneo de Maldives
+Kenyattia HACKWORTH,salto largo,869,3,Torneo de Colombia
+Daniela STANCIU,salto de altura,261,6,Torneo de Zimbabwe
+Daniela STANCIU,salto de altura,237,6,Torneo de Puerto Rico
+Katie NAGEOTTE,salto con pertiga,667,10,Torneo de Saudi Arabia
+Katie NAGEOTTE,salto con pertiga,606,4,Torneo de Saint Kitts and Nevis
+Elizabeth GLEADLE,lanzamiento de jabalina,9966,8,Torneo de Ecuador
+Elizabeth GLEADLE,lanzamiento de jabalina,9063,8,Torneo de Benin
+Sandi MORRIS,salto con pertiga,667,2,Torneo de Sudan
+Sandi MORRIS,salto con pertiga,606,8,Torneo de Ukraine
+Chantel MALONE,salto largo,956,2,Torneo de Saint Kitts and Nevis
+Chantel MALONE,salto largo,869,1,Torneo de Saint Vincent and the Grenadines
+Whitney ASHLEY,lanzamiento de disco,7905,9,Torneo de Qatar
+Whitney ASHLEY,lanzamiento de disco,7194,6,Torneo de Sweden
+Ilya IVANYUK,salto de altura,261,7,Torneo de Puerto Rico
+Ilya IVANYUK,salto de altura,237,6,Torneo de United Kingdom
+Kimberly WILLIAMS,salto triple,1996,4,Torneo de Cuba
+Kimberly WILLIAMS,salto triple,1814,3,Torneo de Tuvalu
+Jakub VADLEJCH,lanzamiento de jabalina,9967,4,Torneo de Austria
+Jakub VADLEJCH,lanzamiento de jabalina,9062,9,Torneo de Switzerland
+Daniel STÅHL,lanzamiento de disco,7905,3,Torneo de Saint Kitts and Nevis
+Daniel STÅHL,lanzamiento de disco,7189,8,Torneo de Austria
+Abigail IROZURU,salto largo,955,9,Torneo de Uruguay
+Abigail IROZURU,salto largo,869,3,Torneo de United States
+Sophie MCKINNA,lanzamiento de bala,2520,10,Torneo de Philippines
+Sophie MCKINNA,lanzamiento de bala,2291,5,Torneo de Niger
+Ryan CROUSER,lanzamiento de bala,2520,1,Torneo de Central African Republic
+Ryan CROUSER,lanzamiento de bala,2291,8,Torneo de Egypt
+Rachel FATHERLY,lanzamiento de bala,2519,9,Torneo de Congo Republic of the
+Rachel FATHERLY,lanzamiento de bala,2291,3,Torneo de Papua New Guinea
+Alex ROSE,lanzamiento de disco,7904,10,Torneo de Peru
+Alex ROSE,lanzamiento de disco,7186,4,Torneo de Spain
+Hanna MALYSHIK,lanzamiento de martillo,8992,4,Torneo de Slovenia
+Hanna MALYSHIK,lanzamiento de martillo,8181,5,Torneo de Chile
+Maryna BEKH-ROMANCHUK,salto largo,956,1,Torneo de Sudan
+Maryna BEKH-ROMANCHUK,salto largo,869,2,Torneo de Venezuela
+Svetlana RADZIVIL,salto de altura,261,5,Torneo de Zambia
+Svetlana RADZIVIL,salto de altura,237,5,Torneo de Turkey
+Kristin PUDENZ,lanzamiento de disco,7905,8,Torneo de Argentina
+Kristin PUDENZ,lanzamiento de disco,7187,3,Torneo de Georgia
+Piotr MAŁACHOWSKI,lanzamiento de disco,7903,4,Torneo de Rwanda
+Piotr MAŁACHOWSKI,lanzamiento de disco,7186,6,Torneo de Cambodia
+Anzhelika SIDOROVA,salto con pertiga,667,6,Torneo de Sri Lanka
+Anzhelika SIDOROVA,salto con pertiga,606,9,Torneo de Zambia
+Michaela MEIJER,salto con pertiga,667,10,Torneo de Myanmar
+Michaela MEIJER,salto con pertiga,606,8,Torneo de Tuvalu
+Alexis COPELLO,salto triple,1995,8,Torneo de Senegal
+Alexis COPELLO,salto triple,1815,7,Torneo de Congo Democratic Republic of the
+Diana ZAGAINOVA,salto triple,1996,10,Torneo de Malta
+Diana ZAGAINOVA,salto triple,1816,3,Torneo de Colombia
+Juan Miguel ECHEVARRÍA,salto largo,956,5,Torneo de Ghana
+Juan Miguel ECHEVARRÍA,salto largo,869,2,Torneo de Zambia
+Olha SALADUKHA,salto triple,1996,4,Torneo de United Arab Emirates
+Olha SALADUKHA,salto triple,1814,5,Torneo de Croatia
+DeAnna PRICE,lanzamiento de martillo,8987,3,Torneo de Grenada
+DeAnna PRICE,lanzamiento de martillo,8176,2,Torneo de Malaysia
+Dmitriy TARABIN,lanzamiento de jabalina,9963,6,Torneo de Belize
+Dmitriy TARABIN,lanzamiento de jabalina,9085,2,Torneo de Andorra
+Julian WEBER,lanzamiento de jabalina,9968,10,Torneo de Oman
+Julian WEBER,lanzamiento de jabalina,9061,3,Torneo de Senegal
+Dimitriana SURDU,lanzamiento de bala,2521,1,Torneo de Wales
+Dimitriana SURDU,lanzamiento de bala,2291,6,Torneo de South Sudan
+Piotr LISEK,salto con pertiga,667,2,Torneo de Tanzania
+Piotr LISEK,salto con pertiga,606,8,Torneo de Slovenia
+Chukwuebuka ENEKWECHI,lanzamiento de bala,2521,6,Torneo de Benin
+Chukwuebuka ENEKWECHI,lanzamiento de bala,2292,5,Torneo de Monaco
+Armin SINANČEVIĆ,lanzamiento de bala,2520,4,Torneo de Sierra Leone
+Armin SINANČEVIĆ,lanzamiento de bala,2292,2,Torneo de Syria
+Brittany CREW,lanzamiento de bala,2521,8,Torneo de Ivory Coast
+Brittany CREW,lanzamiento de bala,2291,7,Torneo de Qatar
+Ivana ŠPANOVIĆ,salto largo,956,8,Torneo de Panama
+Ivana ŠPANOVIĆ,salto largo,869,1,Torneo de Singapore
+Ling LI,salto con pertiga,667,7,Torneo de Zambia
+Ling LI,salto con pertiga,606,2,Torneo de Guinea-Bissau
+Reggie JAGERS III,lanzamiento de disco,7905,3,Torneo de Argentina
+Reggie JAGERS III,lanzamiento de disco,7188,7,Torneo de Bulgaria
+Andreas HOFMANN,lanzamiento de jabalina,9964,5,Torneo de Serbia
+Andreas HOFMANN,lanzamiento de jabalina,9067,1,Torneo de Russia
+Kc LIGHTFOOT,salto con pertiga,667,4,Torneo de Panama
+Kc LIGHTFOOT,salto con pertiga,606,8,Torneo de Saint Lucia
+Liadagmis POVEA,salto triple,1996,7,Torneo de Cabo Verde
+Liadagmis POVEA,salto triple,1815,3,Torneo de Niger
+Jonathan JONES,lanzamiento de bala,2521,6,Torneo de Zimbabwe
+Jonathan JONES,lanzamiento de bala,2293,1,Torneo de Sri Lanka
+Karyna DEMIDIK,salto de altura,261,2,Torneo de Virgin Islands (British)
+Karyna DEMIDIK,salto de altura,237,6,Torneo de Sao Tome and Principe
+Thea LAFOND,salto triple,1996,7,Torneo de Scotland
+Thea LAFOND,salto triple,1814,10,Torneo de Belgium
+Marcel LOMNICKÝ,lanzamiento de martillo,8989,7,Torneo de Sri Lanka
+Marcel LOMNICKÝ,lanzamiento de martillo,8174,8,Torneo de Georgia
+Zheng WANG,lanzamiento de martillo,8988,5,Torneo de Norway
+Zheng WANG,lanzamiento de martillo,8178,3,Torneo de Saint Kitts and Nevis
+Robeilys PEINADO,salto con pertiga,666,9,Torneo de Wales
+Robeilys PEINADO,salto con pertiga,606,10,Torneo de Lesotho
+Janeah STEWART,lanzamiento de martillo,8992,10,Torneo de New Zealand
+Janeah STEWART,lanzamiento de martillo,8179,2,Torneo de Hungary
+Alin Alexandru FIRFIRICA,lanzamiento de disco,7905,3,Torneo de Chad
+Alin Alexandru FIRFIRICA,lanzamiento de disco,7187,3,Torneo de Myanmar
+Steffin MCCARTER,salto largo,956,5,Torneo de Pakistan
+Steffin MCCARTER,salto largo,869,1,Torneo de Spain
+Bob BERTEMES,lanzamiento de bala,2521,1,Torneo de United Arab Emirates
+Bob BERTEMES,lanzamiento de bala,2292,5,Torneo de Virgin Islands (British)
+Denis LUKYANOV,lanzamiento de martillo,8980,3,Torneo de Uganda
+Denis LUKYANOV,lanzamiento de martillo,8180,6,Torneo de Burkina Faso
+Ese BRUME,salto largo,956,9,Torneo de Libya
+Ese BRUME,salto largo,869,5,Torneo de Saint Lucia
+Andressa DE MORAIS,lanzamiento de disco,7895,7,Torneo de Belarus
+Andressa DE MORAIS,lanzamiento de disco,7186,6,Torneo de Ireland
+Nikoleta KIRIAKOPOULOU,salto con pertiga,667,2,Torneo de Latvia
+Nikoleta KIRIAKOPOULOU,salto con pertiga,606,1,Torneo de Tunisia
+Yekaterina STROKOVA,lanzamiento de disco,7905,3,Torneo de Ethiopia
+Yekaterina STROKOVA,lanzamiento de disco,7191,1,Torneo de New Zealand
+Nafissatou THIAM,salto de altura,261,2,Torneo de Vanuatu
+Nafissatou THIAM,salto de altura,237,8,Torneo de Maldives
+Nick MILLER,lanzamiento de martillo,8992,9,Torneo de Iraq
+Nick MILLER,lanzamiento de martillo,8177,8,Torneo de Malaysia
+Mariya LASITSKENE,salto de altura,261,3,Torneo de Virgin Islands (British)
+Mariya LASITSKENE,salto de altura,237,1,Torneo de Puerto Rico
+Will CLAYE,salto largo,956,9,Torneo de Guinea-Bissau
+Will CLAYE,salto largo,870,6,Torneo de Paraguay
+Laulauga TAUSAGA,lanzamiento de disco,7904,6,Torneo de Yemen
+Laulauga TAUSAGA,lanzamiento de disco,7187,3,Torneo de Suriname
+Jianan WANG,salto largo,956,9,Torneo de Thailand
+Jianan WANG,salto largo,869,7,Torneo de Zimbabwe
+Magnus KIRT,lanzamiento de jabalina,9958,10,Torneo de Finland
+Magnus KIRT,lanzamiento de jabalina,9065,2,Torneo de Nigeria
+Jordan GEIST,lanzamiento de bala,2521,6,Torneo de Mali
+Jordan GEIST,lanzamiento de bala,2291,5,Torneo de Vanuatu
+Martin WIERIG,lanzamiento de disco,7899,1,Torneo de Sri Lanka
+Martin WIERIG,lanzamiento de disco,7187,5,Torneo de Albania
+Mélina ROBERT-MICHON,lanzamiento de disco,7903,2,Torneo de Guatemala
+Mélina ROBERT-MICHON,lanzamiento de disco,7186,1,Torneo de Russia
+Malaika MIHAMBO,salto largo,956,5,Torneo de Mauritania
+Malaika MIHAMBO,salto largo,869,9,Torneo de Zimbabwe
+Nelson ÉVORA,salto triple,1996,3,Torneo de Macedonia
+Nelson ÉVORA,salto triple,1814,3,Torneo de Turkey
+Maria ANDREJCZYK,lanzamiento de jabalina,9967,9,Torneo de Austria
+Maria ANDREJCZYK,lanzamiento de jabalina,9062,2,Torneo de Gambia
+Martina RATEJ,lanzamiento de jabalina,9968,5,Torneo de Antigua and Barbuda
+Martina RATEJ,lanzamiento de jabalina,9067,1,Torneo de Georgia
+Sandra PERKOVIĆ,lanzamiento de disco,7903,5,Torneo de Nigeria
+Sandra PERKOVIĆ,lanzamiento de disco,7189,3,Torneo de Zambia
+Portious WARREN,lanzamiento de bala,2521,7,Torneo de Burundi
+Portious WARREN,lanzamiento de bala,2291,2,Torneo de Guinea-Bissau
+Cole WALSH,salto con pertiga,667,10,Torneo de Suriname
+Cole WALSH,salto con pertiga,606,1,Torneo de Poland
+Anna AVDEYEVA,lanzamiento de bala,2518,6,Torneo de Luxembourg
+Anna AVDEYEVA,lanzamiento de bala,2293,3,Torneo de Kiribati
+Nafissatou THIAM,salto largo,956,7,Torneo de Angola
+Nafissatou THIAM,salto largo,869,10,Torneo de Latvia
+Yaming ZHU,salto triple,1996,3,Torneo de Puerto Rico
+Yaming ZHU,salto triple,1815,8,Torneo de Uganda
+Holly BRADSHAW,salto con pertiga,667,3,Torneo de Papua New Guinea
+Holly BRADSHAW,salto con pertiga,606,7,Torneo de South Africa
+Zarck VISSER,salto largo,956,2,Torneo de Virgin Islands (British)
+Zarck VISSER,salto largo,869,3,Torneo de Germany
+Malwina KOPRON,lanzamiento de martillo,8992,10,Torneo de Papua New Guinea
+Malwina KOPRON,lanzamiento de martillo,8175,2,Torneo de Mongolia
+Maggie EWEN,lanzamiento de bala,2521,5,Torneo de Oman
+Maggie EWEN,lanzamiento de bala,2293,4,Torneo de Turkey
+Almir DOS SANTOS,salto triple,1994,1,Torneo de Namibia
+Almir DOS SANTOS,salto triple,1814,10,Torneo de Haiti
+Necatí ER,salto triple,1996,9,Torneo de Tunisia
+Necatí ER,salto triple,1814,10,Torneo de Philippines
+Serhiy PEREVOZNIKOV,lanzamiento de martillo,8992,10,Torneo de Australia
+Serhiy PEREVOZNIKOV,lanzamiento de martillo,8174,10,Torneo de Somalia
+Lijiao GONG,lanzamiento de bala,2521,4,Torneo de Czechia
+Lijiao GONG,lanzamiento de bala,2291,8,Torneo de Saint Lucia
+Alexandra TAVERNIER,lanzamiento de martillo,8990,9,Torneo de Russia
+Alexandra TAVERNIER,lanzamiento de martillo,8179,9,Torneo de Lebanon
+Ana PELETEIRO,salto triple,1996,2,Torneo de United Kingdom
+Ana PELETEIRO,salto triple,1814,1,Torneo de French Guiana
+Caterine IBARGUEN,salto largo,956,10,Torneo de Tanzania
+Caterine IBARGUEN,salto largo,869,10,Torneo de Uzbekistan
+Katerina STEFANIDI,salto con pertiga,667,5,Torneo de Romania
+Katerina STEFANIDI,salto con pertiga,606,8,Torneo de Slovenia
+Emily GROVE,salto con pertiga,667,2,Torneo de Venezuela
+Emily GROVE,salto con pertiga,606,8,Torneo de Seychelles
+Vashti CUNNINGHAM,salto de altura,261,10,Torneo de Vanuatu
+Vashti CUNNINGHAM,salto de altura,237,4,Torneo de Vatican City
+Cyprian MRZYGŁÓD,lanzamiento de jabalina,9964,3,Torneo de Northern Ireland
+Cyprian MRZYGŁÓD,lanzamiento de jabalina,9068,2,Torneo de France
+Michael MASON,salto de altura,261,3,Torneo de Vietnam
+Michael MASON,salto de altura,237,6,Torneo de South Sudan
+Pedro Pablo PICHARDO,salto triple,1996,2,Torneo de Norway
+Pedro Pablo PICHARDO,salto triple,1815,4,Torneo de Serbia
+Hamish KERR,salto de altura,261,2,Torneo de Scotland
+Hamish KERR,salto de altura,237,6,Torneo de Vietnam
+Haruka KITAGUCHI,lanzamiento de jabalina,9966,6,Torneo de Bulgaria
+Haruka KITAGUCHI,lanzamiento de jabalina,9072,1,Torneo de Lithuania
+Denia CABALLERO,lanzamiento de disco,7900,5,Torneo de United States
+Denia CABALLERO,lanzamiento de disco,7187,7,Torneo de Switzerland
+Serghei MARGHIEV,lanzamiento de martillo,8991,4,Torneo de United States
+Serghei MARGHIEV,lanzamiento de martillo,8175,6,Torneo de Mauritius
+Will CLAYE,salto triple,1996,7,Torneo de San Marino
+Will CLAYE,salto triple,1814,10,Torneo de Turkmenistan
+Kim AMB,lanzamiento de jabalina,9968,3,Torneo de Palau
+Kim AMB,lanzamiento de jabalina,9061,6,Torneo de Albania
+Sofiya PALKINA,lanzamiento de martillo,8984,6,Torneo de Grenada
+Sofiya PALKINA,lanzamiento de martillo,8175,8,Torneo de El Salvador
+Raphael HOLZDEPPE,salto con pertiga,667,2,Torneo de Venezuela
+Raphael HOLZDEPPE,salto con pertiga,606,4,Torneo de Saint Vincent and the Grenadines
+Payton OTTERDAHL,lanzamiento de bala,2520,2,Torneo de Turkey
+Payton OTTERDAHL,lanzamiento de bala,2291,9,Torneo de United States
+Brittney REESE,salto largo,956,9,Torneo de Burundi
+Brittney REESE,salto largo,869,5,Torneo de Namibia
+Kurtis MARSCHALL,salto con pertiga,667,5,Torneo de Venezuela
+Kurtis MARSCHALL,salto con pertiga,606,1,Torneo de Philippines
+Fanny ROOS,lanzamiento de bala,2521,2,Torneo de Suriname
+Fanny ROOS,lanzamiento de bala,2291,8,Torneo de Indonesia
+Erika KINSEY,salto de altura,261,5,Torneo de Uganda
+Erika KINSEY,salto de altura,237,4,Torneo de Wales
+Réka GYURÁTZ,lanzamiento de martillo,8989,6,Torneo de Sri Lanka
+Réka GYURÁTZ,lanzamiento de martillo,8175,1,Torneo de Panama
+Simon PETTERSSON,lanzamiento de disco,7898,8,Torneo de Vietnam
+Simon PETTERSSON,lanzamiento de disco,7192,3,Torneo de Tanzania
+Aliona DUBITSKAYA,lanzamiento de bala,2513,4,Torneo de South Sudan
+Aliona DUBITSKAYA,lanzamiento de bala,2291,3,Torneo de Vatican City
+Javier CIENFUEGOS,lanzamiento de martillo,8991,8,Torneo de Colombia
+Javier CIENFUEGOS,lanzamiento de martillo,8175,9,Torneo de Nepal
+Angelica BENGTSSON,salto con pertiga,667,1,Torneo de Tonga
+Angelica BENGTSSON,salto con pertiga,606,5,Torneo de Germany
+Bence HALÁSZ,lanzamiento de martillo,8991,9,Torneo de Argentina
+Bence HALÁSZ,lanzamiento de martillo,8174,10,Torneo de Bangladesh
+Nadine MÜLLER,lanzamiento de disco,7903,6,Torneo de Albania
+Nadine MÜLLER,lanzamiento de disco,7187,8,Torneo de Turkmenistan
+Johannes VETTER,lanzamiento de jabalina,9967,8,Torneo de Maldives
+Johannes VETTER,lanzamiento de jabalina,9063,9,Torneo de Portugal
+Dmitriy SOROKIN,salto triple,1996,9,Torneo de Kenya
+Dmitriy SOROKIN,salto triple,1815,4,Torneo de Togo
+Danniel THOMAS-DODD,lanzamiento de bala,2521,10,Torneo de Sweden
+Danniel THOMAS-DODD,lanzamiento de bala,2292,10,Torneo de Saint Vincent and the Grenadines
+Gwen BERRY,lanzamiento de martillo,8979,10,Torneo de Senegal
+Gwen BERRY,lanzamiento de martillo,8174,7,Torneo de Ireland
+Traves SMIKLE,lanzamiento de disco,7899,8,Torneo de Nepal
+Traves SMIKLE,lanzamiento de disco,7188,10,Torneo de Senegal
+Konrad BUKOWIECKI,lanzamiento de bala,2521,7,Torneo de Uruguay
+Konrad BUKOWIECKI,lanzamiento de bala,2292,6,Torneo de India
+Alina ROTARU,salto largo,956,8,Torneo de Sierra Leone
+Alina ROTARU,salto largo,870,8,Torneo de Vanuatu
+Ella JUNNILA,salto de altura,261,1,Torneo de Saint Vincent and the Grenadines
+Ella JUNNILA,salto de altura,237,4,Torneo de Pakistan
+Alexsandro MELO,salto triple,1995,4,Torneo de South Korea
+Alexsandro MELO,salto triple,1814,1,Torneo de Saint Lucia
+Yu WANG,salto de altura,261,1,Torneo de Macedonia
+Yu WANG,salto de altura,237,2,Torneo de Uzbekistan
+Iryna GERASHCHENKO,salto de altura,261,6,Torneo de South Africa
+Iryna GERASHCHENKO,salto de altura,237,7,Torneo de Saudi Arabia
+Valentin LAVILLENIE,salto con pertiga,667,4,Torneo de Mauritania
+Valentin LAVILLENIE,salto con pertiga,606,1,Torneo de Trinidad and Tobago
+Dani STEVENS,lanzamiento de disco,7905,10,Torneo de Zimbabwe
+Dani STEVENS,lanzamiento de disco,7188,5,Torneo de Malta

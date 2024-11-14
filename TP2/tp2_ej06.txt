@@ -1,0 +1,61 @@
+nombre_especialidad,nombre_deportista,intento,marca,posicion
+carrera 100 m,Tynia GAITHER,1,9760,1
+carrera 100 m,Arthur CISSÉ,1,9760,2
+carrera 100 m,Blessing OKAGBARE,1,9760,3
+carrera 10000 m,Lopez LOMONG,1,1608036,1
+carrera 10000 m,Abdallah Kibet MANDE,1,1608063,2
+carrera 10000 m,Rodgers KWEMOI,1,1608075,3
+carrera 110 m con vallas,Wenjun XIE,1,12098,1
+carrera 110 m con vallas,Queen CLAYE,1,12098,2
+carrera 110 m con vallas,Gabriel CONSTANTINO,1,12098,3
+carrera 1500 m,Sifan HASSAN,1,208771,1
+carrera 1500 m,Matthew CENTROWITZ,1,208772,2
+carrera 1500 m,Dawit SEYAUM,1,208772,3
+carrera 200 m,Elaine THOMPSON,1,19500,1
+carrera 200 m,Kayla WHITE,1,19500,2
+carrera 200 m,Mario BURKE,1,19500,3
+carrera 21000 m,Evaline CHIRCHIR,1,3481005,1
+carrera 21000 m,Zeineba YIMER,1,3481062,2
+carrera 21000 m,Roza DEREJE,1,3481121,3
+carrera 3000 m con vallas,Andrew BAYER,1,481036,1
+carrera 3000 m con vallas,Chala BEYO,1,481040,2
+carrera 3000 m con vallas,Norah JERUTO,1,481044,3
+carrera 400 m,Phyllis FRANCIS,1,43450,1
+carrera 400 m,Courtney OKOLO,1,43451,2
+carrera 400 m,Sharrika BARNETT,1,43452,3
+carrera 400 m con vallas,Ashley SPENCER,1,46092,1
+carrera 400 m con vallas,Lindsay HANEKOM,1,46092,2
+carrera 400 m con vallas,TJ HOLMES,1,46094,3
+carrera 42000 m,Zeineba YIMER,1,7301146,1
+carrera 42000 m,Kinde ATANAW,1,7301386,2
+carrera 42000 m,Kinde ATANAW,1,7301499,3
+carrera 5000 m,Sifan HASSAN,1,772098,1
+carrera 5000 m,Birhanu BALEW,1,772110,2
+carrera 5000 m,Selemon BAREGA,1,772111,3
+carrera 800 m,Francine NIYONSABA,1,101892,1
+carrera 800 m,Natalya PRYSHCHEPA,1,101893,2
+carrera 800 m,Raevyn ROGERS,1,101893,3
+lanzamiento de bala,Jonathan JONES,6,2521,1
+lanzamiento de bala,Mesud PEZER,6,2521,2
+lanzamiento de bala,Dimitriana SURDU,1,2521,3
+lanzamiento de disco,Dani STEVENS,10,7905,1
+lanzamiento de disco,Sam MATTIS,5,7905,2
+lanzamiento de disco,Claudine VITA,9,7905,3
+lanzamiento de jabalina,Julius YEGO,1,9968,1
+lanzamiento de jabalina,Chao-Tsun CHENG,6,9968,2
+lanzamiento de jabalina,Kim AMB,3,9968,3
+lanzamiento de martillo,Wojciech NOWICKI,5,8992,1
+lanzamiento de martillo,Janee KASSANAVOID,8,8992,2
+lanzamiento de martillo,Hanna MALYSHIK,4,8992,3
+salto con pertiga,Thiago BRAZ,8,667,1
+salto con pertiga,Ling LI,7,667,2
+salto con pertiga,Ben BROEDERS,5,667,3
+salto de altura,Daniela STANCIU,6,261,1
+salto de altura,Yaroslava MAHUCHIKH,2,261,2
+salto de altura,Svetlana RADZIVIL,5,261,3
+salto largo,Naa ANANG,3,956,1
+salto largo,Zarck VISSER,2,956,2
+salto largo,Miltiadis TENTOGLOU,9,956,3
+salto triple,Ana PELETEIRO,2,1996,1
+salto triple,Olha SALADUKHA,4,1996,2
+salto triple,Necatí ER,9,1996,3

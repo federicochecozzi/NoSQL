@@ -1,0 +1,4 @@
+id_deportista,nombre_deportista,fecha_nacimiento,id_pais,nombre_pais,nombre_especialidad
+10,Yohan BLAKE,1989-12-26,86,Jamaica,carrera 100 m
+20,Tyquendo TRACEY,1993-06-10,86,Jamaica,carrera 100 m
+30,Carina HORN,1989-03-09,164,South Africa,carrera 100 m
