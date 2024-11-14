@@ -1,0 +1,1 @@
+db.getCollection('deportistas').find({id_pais_deportista:189}).toArray();

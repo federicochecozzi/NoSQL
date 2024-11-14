@@ -1,0 +1,1 @@
+db.getCollection('deportistas').find({_id:{$in:[10,20,30]}},{_id:1, nombre:1}).toArray();

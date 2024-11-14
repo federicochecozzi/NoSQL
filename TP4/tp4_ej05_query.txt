@@ -1,0 +1,3 @@
+db.getCollection('marcas').aggregate([
+{$group: {_id: "$id_tipo_especialidad", nombre: {$first:"$nombre_tipo_especialidad"}, especialidades: { $addToSet: "$nombre_especialidad" }}}
+]).toArray();

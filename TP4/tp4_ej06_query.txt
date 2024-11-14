@@ -1,0 +1,4 @@
+db.getCollection('marcas').aggregate([
+{$group: {_id: "$nombre_tipo_especialidad", cantidad: { $sum: 1}}}
+]).toArray();
+ 
