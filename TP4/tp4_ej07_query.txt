@@ -1,0 +1,38 @@
+db.marcas.aggregate([
+    {
+        $group: {
+            _id: {
+                nombre_deportista: "$nombre_deportista",
+                nombre_especialidad: "$nombre_especialidad",
+            },
+            id_tipo_especialidad: {$first:"$id_tipo_especialidad"},
+            marca_min: { $min: "$marca" },
+            marca_max: { $max: "$marca" }
+        }
+    },
+    {
+         $addFields: {
+            mejor_marca: {
+                $cond: {
+                    if: {$eq: ["$id_tipo_especialidad", 1] },
+                    then: "$marca_min",
+                    else: "$marca_max"
+                }
+            },
+            peor_marca: {
+                $cond: {
+                    if: {$eq: ["$id_tipo_especialidad", 1] },
+                    then: "$marca_max",
+                    else: "$marca_min"
+                }
+            }
+        }
+    },
+    {
+        $project: {
+            _id: 1,
+            mejor_marca: 1,
+            peor_marca: 1
+        }
+    }
+]).toArray();
