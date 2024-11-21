@@ -1,18 +1,18 @@
 [
     {
-        "_id" : "tiempo",
-        "cantidad" : 96681.0
-    },
-    {
-        "_id" : "altura",
-        "cantidad" : 15879.0
-    },
-    {
         "_id" : "lanzamiento",
-        "cantidad" : 32361.0
+        "cantidad" : 32361
+    },
+    {
+        "_id" : "tiempo",
+        "cantidad" : 96681
     },
     {
         "_id" : "largo",
-        "cantidad" : 16482.0
+        "cantidad" : 16482
+    },
+    {
+        "_id" : "altura",
+        "cantidad" : 15879
     }
 ]

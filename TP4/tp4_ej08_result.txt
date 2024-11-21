@@ -1,0 +1,342 @@
+[
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Phyllis FRANCIS",
+                "marca" : 43450
+            }, 
+            {
+                "nombre_deportista" : "Courtney OKOLO",
+                "marca" : 43451
+            }, 
+            {
+                "nombre_deportista" : "Sharrika BARNETT",
+                "marca" : 43452
+            }
+        ],
+        "nombre_especialidad" : "carrera 400 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Ashley SPENCER",
+                "marca" : 46092
+            }, 
+            {
+                "nombre_deportista" : "Lindsay HANEKOM",
+                "marca" : 46092
+            }, 
+            {
+                "nombre_deportista" : "TJ HOLMES",
+                "marca" : 46094
+            }
+        ],
+        "nombre_especialidad" : "carrera 400 m con vallas"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Mariya LASITSKENE",
+                "marca" : 261
+            }, 
+            {
+                "nombre_deportista" : "Jeron ROBINSON",
+                "marca" : 261
+            }, 
+            {
+                "nombre_deportista" : "Mariya LASITSKENE",
+                "marca" : 261
+            }
+        ],
+        "nombre_especialidad" : "salto de altura"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Noah LYLES",
+                "marca" : 9760
+            }, 
+            {
+                "nombre_deportista" : "Mario BURKE",
+                "marca" : 9760
+            }, 
+            {
+                "nombre_deportista" : "Blessing OKAGBARE",
+                "marca" : 9760
+            }
+        ],
+        "nombre_especialidad" : "carrera 100 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Mario BURKE",
+                "marca" : 19500
+            }, 
+            {
+                "nombre_deportista" : "Kayla WHITE",
+                "marca" : 19500
+            }, 
+            {
+                "nombre_deportista" : "Elaine THOMPSON",
+                "marca" : 19500
+            }
+        ],
+        "nombre_especialidad" : "carrera 200 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Kristin GIERISCH",
+                "marca" : 1996
+            }, 
+            {
+                "nombre_deportista" : "Nelson ÉVORA",
+                "marca" : 1996
+            }, 
+            {
+                "nombre_deportista" : "Yaoqing FANG",
+                "marca" : 1996
+            }
+        ],
+        "nombre_especialidad" : "salto triple"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Francine NIYONSABA",
+                "marca" : 101892
+            }, 
+            {
+                "nombre_deportista" : "Raevyn ROGERS",
+                "marca" : 101893
+            }, 
+            {
+                "nombre_deportista" : "Natalya PRYSHCHEPA",
+                "marca" : 101893
+            }
+        ],
+        "nombre_especialidad" : "carrera 800 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Maggie EWEN",
+                "marca" : 2521
+            }, 
+            {
+                "nombre_deportista" : "Bob BERTEMES",
+                "marca" : 2521
+            }, 
+            {
+                "nombre_deportista" : "Brittany CREW",
+                "marca" : 2521
+            }
+        ],
+        "nombre_especialidad" : "lanzamiento de bala"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Lopez LOMONG",
+                "marca" : 1608036
+            }, 
+            {
+                "nombre_deportista" : "Abdallah Kibet MANDE",
+                "marca" : 1608063
+            }, 
+            {
+                "nombre_deportista" : "Rodgers KWEMOI",
+                "marca" : 1608075
+            }
+        ],
+        "nombre_especialidad" : "carrera 10000 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Evaline CHIRCHIR",
+                "marca" : 3481005
+            }, 
+            {
+                "nombre_deportista" : "Zeineba YIMER",
+                "marca" : 3481062
+            }, 
+            {
+                "nombre_deportista" : "Roza DEREJE",
+                "marca" : 3481121
+            }
+        ],
+        "nombre_especialidad" : "carrera 21000 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Andrew BAYER",
+                "marca" : 481036
+            }, 
+            {
+                "nombre_deportista" : "Chala BEYO",
+                "marca" : 481040
+            }, 
+            {
+                "nombre_deportista" : "Norah JERUTO",
+                "marca" : 481044
+            }
+        ],
+        "nombre_especialidad" : "carrera 3000 m con vallas"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Queen CLAYE",
+                "marca" : 12098
+            }, 
+            {
+                "nombre_deportista" : "Wenjun XIE",
+                "marca" : 12098
+            }, 
+            {
+                "nombre_deportista" : "Gabriel CONSTANTINO",
+                "marca" : 12098
+            }
+        ],
+        "nombre_especialidad" : "carrera 110 m con vallas"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Sifan HASSAN",
+                "marca" : 208771
+            }, 
+            {
+                "nombre_deportista" : "Dawit SEYAUM",
+                "marca" : 208772
+            }, 
+            {
+                "nombre_deportista" : "Matthew CENTROWITZ",
+                "marca" : 208772
+            }
+        ],
+        "nombre_especialidad" : "carrera 1500 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Luvo MANYONGA",
+                "marca" : 956
+            }, 
+            {
+                "nombre_deportista" : "Jeff HENDERSON",
+                "marca" : 956
+            }, 
+            {
+                "nombre_deportista" : "Chantel MALONE",
+                "marca" : 956
+            }
+        ],
+        "nombre_especialidad" : "salto largo"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Alysha NEWMAN",
+                "marca" : 667
+            }, 
+            {
+                "nombre_deportista" : "Renaud LAVILLENIE",
+                "marca" : 667
+            }, 
+            {
+                "nombre_deportista" : "Olivia GRUVER",
+                "marca" : 667
+            }
+        ],
+        "nombre_especialidad" : "salto con pertiga"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Serhiy PEREVOZNIKOV",
+                "marca" : 8992
+            }, 
+            {
+                "nombre_deportista" : "Malwina KOPRON",
+                "marca" : 8992
+            }, 
+            {
+                "nombre_deportista" : "Zalina PETRIVSKAYA",
+                "marca" : 8992
+            }
+        ],
+        "nombre_especialidad" : "lanzamiento de martillo"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Sifan HASSAN",
+                "marca" : 772098
+            }, 
+            {
+                "nombre_deportista" : "Birhanu BALEW",
+                "marca" : 772110
+            }, 
+            {
+                "nombre_deportista" : "Selemon BAREGA",
+                "marca" : 772111
+            }
+        ],
+        "nombre_especialidad" : "carrera 5000 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Marcin KRUKOWSKI",
+                "marca" : 9968
+            }, 
+            {
+                "nombre_deportista" : "Chao-Tsun CHENG",
+                "marca" : 9968
+            }, 
+            {
+                "nombre_deportista" : "Arshad NADEEM",
+                "marca" : 9968
+            }
+        ],
+        "nombre_especialidad" : "lanzamiento de jabalina"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Zeineba YIMER",
+                "marca" : 7301146
+            }, 
+            {
+                "nombre_deportista" : "Kinde ATANAW",
+                "marca" : 7301386
+            }, 
+            {
+                "nombre_deportista" : "Kinde ATANAW",
+                "marca" : 7301499
+            }
+        ],
+        "nombre_especialidad" : "carrera 42000 m"
+    },
+    {
+        "podio" : [ 
+            {
+                "nombre_deportista" : "Whitney ASHLEY",
+                "marca" : 7905
+            }, 
+            {
+                "nombre_deportista" : "Daniel STÅHL",
+                "marca" : 7905
+            }, 
+            {
+                "nombre_deportista" : "Christoph HARTING",
+                "marca" : 7905
+            }
+        ],
+        "nombre_especialidad" : "lanzamiento de disco"
+    }
+]
