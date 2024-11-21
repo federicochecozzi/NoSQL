@@ -1,0 +1,20 @@
+Tipo/Especialidad: altura, salto con pertiga
+Tipo/Especialidad: altura, salto de altura
+Tipo/Especialidad: lanzamiento, lanzamiento de bala
+Tipo/Especialidad: lanzamiento, lanzamiento de disco
+Tipo/Especialidad: lanzamiento, lanzamiento de jabalina
+Tipo/Especialidad: lanzamiento, lanzamiento de martillo
+Tipo/Especialidad: largo, salto largo
+Tipo/Especialidad: largo, salto triple
+Tipo/Especialidad: tiempo, carrera 100 m
+Tipo/Especialidad: tiempo, carrera 10000 m
+Tipo/Especialidad: tiempo, carrera 110 m con vallas
+Tipo/Especialidad: tiempo, carrera 1500 m
+Tipo/Especialidad: tiempo, carrera 200 m
+Tipo/Especialidad: tiempo, carrera 21000 m
+Tipo/Especialidad: tiempo, carrera 3000 m con vallas
+Tipo/Especialidad: tiempo, carrera 400 m
+Tipo/Especialidad: tiempo, carrera 400 m con vallas
+Tipo/Especialidad: tiempo, carrera 42000 m
+Tipo/Especialidad: tiempo, carrera 5000 m
+Tipo/Especialidad: tiempo, carrera 800 m

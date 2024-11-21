@@ -1,0 +1,4 @@
+Cantidad Especialidades de tiempo: 12
+Cantidad Especialidades de lanzamiento: 4
+Cantidad Especialidades de altura: 2
+Cantidad Especialidades de largo: 2

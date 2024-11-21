@@ -1,0 +1,100 @@
+Podio de la especialidad: carrera 100 m
+Posición 1 - Torneo de Puerto Rico - Deportista: Noah LYLES - Marca: 9760.0
+Posición 2 - Torneo de Georgia - Deportista: Arthur CISSÉ - Marca: 9760.0
+Posición 3 - Torneo de Lebanon - Deportista: Michael RODGERS - Marca: 9760.0
+
+Podio de la especialidad: carrera 10000 m
+Posición 1 - Torneo de Bhutan - Deportista: Lopez LOMONG - Marca: 1608036.0
+Posición 2 - Torneo de Luxembourg - Deportista: Abdallah Kibet MANDE - Marca: 1608063.0
+Posición 3 - Torneo de Ecuador - Deportista: Rodgers KWEMOI - Marca: 1608075.0
+
+Podio de la especialidad: carrera 110 m con vallas
+Posición 1 - Torneo de Canada - Deportista: Wenjun XIE - Marca: 12098.0
+Posición 2 - Torneo de Timor-Leste - Deportista: Gabriel CONSTANTINO - Marca: 12098.0
+Posición 3 - Torneo de Djibouti - Deportista: Queen CLAYE - Marca: 12098.0
+
+Podio de la especialidad: carrera 1500 m
+Posición 1 - Torneo de South Sudan - Deportista: Sifan HASSAN - Marca: 208771.0
+Posición 2 - Torneo de Niger - Deportista: Matthew CENTROWITZ - Marca: 208772.0
+Posición 3 - Torneo de Oman - Deportista: Dawit SEYAUM - Marca: 208772.0
+
+Podio de la especialidad: carrera 200 m
+Posición 1 - Torneo de South Sudan - Deportista: Mario BURKE - Marca: 19500.0
+Posición 2 - Torneo de Grenada - Deportista: Elaine THOMPSON - Marca: 19500.0
+Posición 3 - Torneo de Jamaica - Deportista: Kayla WHITE - Marca: 19500.0
+
+Podio de la especialidad: carrera 21000 m
+Posición 1 - Torneo de Luxembourg - Deportista: Evaline CHIRCHIR - Marca: 3481005.0
+Posición 2 - Torneo de Indonesia - Deportista: Zeineba YIMER - Marca: 3481062.0
+Posición 3 - Torneo de Senegal - Deportista: Roza DEREJE - Marca: 3481121.0
+
+Podio de la especialidad: carrera 3000 m con vallas
+Posición 1 - Torneo de New Zealand - Deportista: Andrew BAYER - Marca: 481036.0
+Posición 2 - Torneo de Georgia - Deportista: Chala BEYO - Marca: 481040.0
+Posición 3 - Torneo de Honduras - Deportista: Norah JERUTO - Marca: 481044.0
+
+Podio de la especialidad: carrera 400 m
+Posición 1 - Torneo de Lithuania - Deportista: Phyllis FRANCIS - Marca: 43450.0
+Posición 2 - Torneo de Iraq - Deportista: Courtney OKOLO - Marca: 43451.0
+Posición 3 - Torneo de Czechia - Deportista: Galefele MOROKO - Marca: 43452.0
+
+Podio de la especialidad: carrera 400 m con vallas
+Posición 1 - Torneo de Sudan - Deportista: Lindsay HANEKOM - Marca: 46092.0
+Posición 2 - Torneo de France - Deportista: Ashley SPENCER - Marca: 46092.0
+Posición 3 - Torneo de Timor-Leste - Deportista: Kyron MCMASTER - Marca: 46094.0
+
+Podio de la especialidad: carrera 42000 m
+Posición 1 - Torneo de Ecuador - Deportista: Zeineba YIMER - Marca: 7301146.0
+Posición 2 - Torneo de Guyana - Deportista: Kinde ATANAW - Marca: 7301386.0
+Posición 3 - Torneo de Malta - Deportista: Kinde ATANAW - Marca: 7301499.0
+
+Podio de la especialidad: carrera 5000 m
+Posición 1 - Torneo de Australia - Deportista: Sifan HASSAN - Marca: 772098.0
+Posición 2 - Torneo de Ecuador - Deportista: Birhanu BALEW - Marca: 772110.0
+Posición 3 - Torneo de Bangladesh - Deportista: Selemon BAREGA - Marca: 772111.0
+
+Podio de la especialidad: carrera 800 m
+Posición 1 - Torneo de Libya - Deportista: Francine NIYONSABA - Marca: 101892.0
+Posición 2 - Torneo de Malaysia - Deportista: Raevyn ROGERS - Marca: 101893.0
+Posición 3 - Torneo de Bhutan - Deportista: Natalya PRYSHCHEPA - Marca: 101893.0
+
+Podio de la especialidad: lanzamiento de bala
+Posición 1 - Torneo de Slovakia - Deportista: Jonathan JONES - Marca: 2521.0
+Posición 2 - Torneo de Zimbabwe - Deportista: Jonathan JONES - Marca: 2521.0
+Posición 3 - Torneo de Panama - Deportista: Tomas WALSH - Marca: 2521.0
+
+Podio de la especialidad: lanzamiento de disco
+Posición 1 - Torneo de Benin - Deportista: Daniel STÅHL - Marca: 7905.0
+Posición 2 - Torneo de Saint Kitts and Nevis - Deportista: Daniel STÅHL - Marca: 7905.0
+Posición 3 - Torneo de Chad - Deportista: Alin Alexandru FIRFIRICA - Marca: 7905.0
+
+Podio de la especialidad: lanzamiento de jabalina
+Posición 1 - Torneo de Andorra - Deportista: Martina RATEJ - Marca: 9968.0
+Posición 2 - Torneo de Antigua and Barbuda - Deportista: Martina RATEJ - Marca: 9968.0
+Posición 3 - Torneo de Syria - Deportista: Chao-Tsun CHENG - Marca: 9968.0
+
+Podio de la especialidad: lanzamiento de martillo
+Posición 1 - Torneo de Venezuela - Deportista: Wojciech NOWICKI - Marca: 8992.0
+Posición 2 - Torneo de Iraq - Deportista: Nick MILLER - Marca: 8992.0
+Posición 3 - Torneo de Niger - Deportista: Eivind HENRIKSEN - Marca: 8992.0
+
+Podio de la especialidad: salto con pertiga
+Posición 1 - Torneo de Mexico - Deportista: Sam KENDRICKS - Marca: 667.0
+Posición 2 - Torneo de Austria - Deportista: Piotr LISEK - Marca: 667.0
+Posición 3 - Torneo de Central African Republic - Deportista: Piotr LISEK - Marca: 667.0
+
+Podio de la especialidad: salto de altura
+Posición 1 - Torneo de Iceland - Deportista: Mutaz Essa BARSHIM - Marca: 261.0
+Posición 2 - Torneo de Japan - Deportista: Mutaz Essa BARSHIM - Marca: 261.0
+Posición 3 - Torneo de Jordan - Deportista: Mutaz Essa BARSHIM - Marca: 261.0
+
+Podio de la especialidad: salto largo
+Posición 1 - Torneo de Angola - Deportista: Nafissatou THIAM - Marca: 956.0
+Posición 2 - Torneo de Micronesia - Deportista: Juan Miguel ECHEVARRÍA - Marca: 956.0
+Posición 3 - Torneo de Ghana - Deportista: Juan Miguel ECHEVARRÍA - Marca: 956.0
+
+Podio de la especialidad: salto triple
+Posición 1 - Torneo de Belize - Deportista: Will CLAYE - Marca: 1996.0
+Posición 2 - Torneo de Colombia - Deportista: Will CLAYE - Marca: 1996.0
+Posición 3 - Torneo de San Marino - Deportista: Will CLAYE - Marca: 1996.0
+
